@@ -1,0 +1,133 @@
+﻿/* ======================== */
+/* Container do perfil */
+/* ======================== */
+.perfil-container {
+    background: var(--sidebar-bg);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Cabeçalho do perfil */
+.perfil-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+/* Imagem do perfil à esquerda */
+.profile-img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    object-fit: cover;
+    flex-shrink: 0;
+}
+
+/* Nome do usuário e descrição */
+.perfil-info {
+    flex-grow: 1;
+    margin-left: 15px;
+}
+
+.perfil-nome {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: var(--sidebar-text);
+}
+
+.perfil-descricao {
+    font-size: 1rem;
+    color: var(--body-text);
+    margin-top: 5px;
+}
+
+/* Botões mais evidentes */
+.acoes-perfil {
+    display: flex;
+    gap: 15px;
+}
+
+.btn-perfil {
+    padding: 12px 18px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background 0.3s, transform 0.2s;
+    color: white;
+    background: #007bff;
+}
+
+    .btn-perfil:hover {
+        background: #0056b3;
+        transform: scale(1.05);
+    }
+
+    .btn-perfil.sair {
+        background: #ff4d4d;
+    }
+
+        .btn-perfil.sair:hover {
+            background: #cc0000;
+        }
+
+/* ======================== */
+/* Estilização dos livros favoritos */
+/* ======================== */
+.favoritos-container {
+    margin-top: 30px;
+    padding: 20px;
+    background: var(--sidebar-bg);
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.lista-livros {
+    list-style: none;
+    padding: 0;
+}
+
+.livro-item {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    padding: 10px;
+    border-bottom: 1px solid var(--favorites-border);
+}
+
+.book-cover {
+    width: 90px;
+    height: auto;
+    border-radius: 6px;
+}
+
+/* Informações ao lado da capa */
+.livro-info {
+    display: flex;
+    flex-direction: column;
+}
+
+.titulo-livro {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: var(--sidebar-text);
+}
+
+.autor-livro {
+    font-size: 1rem;
+    color: var(--body-text);
+    margin-top: 5px;
+}
+
+.detalhes-livro {
+    margin-top: 8px;
+    font-size: 0.9rem;
+    color: #007bff;
+    text-decoration: none;
+}
+
+    .detalhes-livro:hover {
+        text-decoration: underline;
+    }

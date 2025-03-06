@@ -1,0 +1,97 @@
+﻿/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilo global */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+/* Centralização do formulário */
+form#form1 {
+    max-width: 500px;
+    margin: 40px auto;
+    background: #fff;
+    padding: 30px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+/* Título da página */
+h1 {
+    text-align: center;
+    color: #444;
+    margin-bottom: 25px;
+}
+
+/* Estilizando os campos de input */
+input[type="text"],
+input[type="password"],
+input[type="file"],
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+/* Espaçamento para as labels de erro */
+label[for],
+asp\\:Label {
+    display: block;
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+/* Estilo específico para mensagens de erro */
+.error {
+    color: #d9534f;
+    font-size: 13px;
+}
+
+/* Estilo para a imagem de perfil */
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: 20px auto;
+    border-radius: 5px;
+}
+
+/* Botões */
+button,
+input[type="button"],
+input[type="submit"],
+asp\\:Button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 3px;
+    cursor: pointer;
+    margin: 5px 2px;
+    transition: background-color 0.3s ease;
+}
+
+    button:hover,
+    input[type="button"]:hover,
+    input[type="submit"]:hover,
+    asp\\:Button:hover {
+        background-color: #0056b3;
+    }
+
+/* Container para centralizar o conteúdo */
+div {
+    text-align: center;
+}

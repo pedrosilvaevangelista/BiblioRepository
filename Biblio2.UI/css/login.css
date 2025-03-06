@@ -1,0 +1,117 @@
+﻿/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+/* Corpo da página */
+body {
+    background: linear-gradient(135deg, #1e3c72, #2a5298);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 20px;
+}
+
+/* Estilização do formulário */
+form {
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    width: 350px;
+    text-align: center;
+}
+
+/* Título */
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: #333;
+    font-weight: bold;
+}
+
+/* Lista de inputs */
+ul.Login {
+    list-style: none;
+    padding: 0;
+}
+
+    /* Cada item da lista */
+    ul.Login li {
+        margin-bottom: 15px;
+    }
+
+/* Inputs */
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 12px;
+    border: 2px solid #ccc;
+    border-radius: 6px;
+    font-size: 16px;
+    transition: 0.3s;
+}
+
+    input[type="text"]:focus,
+    input[type="password"]:focus {
+        border-color: #007BFF;
+        outline: none;
+    }
+
+/* Estilização dos botões */
+ul.Login li:last-child {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+asp\:Button {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+/* Botão Entrar */
+#btnEntrar {
+    background: #007BFF;
+}
+
+    #btnEntrar:hover {
+        background: #0056b3;
+    }
+
+/* Botão Cancelar */
+#btnCancelar {
+    background: #dc3545;
+}
+
+    #btnCancelar:hover {
+        background: #a71d2a;
+    }
+
+/* Botão Cadastro */
+#BtnCadastro {
+    background: #28a745;
+}
+
+    #BtnCadastro:hover {
+        background: #1e7e34;
+    }
+
+/* Mensagem de erro */
+asp\:Label {
+    display: block;
+    font-size: 14px;
+    color: red;
+    margin-top: 5px;
+}

@@ -1,0 +1,105 @@
+﻿/* ================== */
+/* Tema Padrão (Rosa) */
+/* ================== */
+body {
+    background-color: #FFF7E5; /* Tom1 */
+    color: #59483E; /* Tom5 */
+}
+
+.filters-section {
+    background: #FADDB4; /* Tom Gradient */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card {
+    background: #FECDD0; /* Tom2 */
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    text-align: center;
+    transition: transform 0.3s;
+}
+
+    .card h3 {
+        color: #F5A3AF; /* Tom4 */
+    }
+
+    .card p {
+        color: #59483E; /* Tom5 */
+    }
+
+#DivPDF a {
+    background: #F8AFB8; /* Tom3 */
+    color: #fff;
+}
+
+    #DivPDF a:hover {
+        background: #F5A3AF; /* Tom4 */
+    }
+
+/* =================== */
+/* Tema Light (Branco) */
+/* =================== */
+body.light-mode {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.light-mode .filters-section {
+    background: #f7f7f7;
+}
+
+.light-mode .card {
+    background: #ffffff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+    .light-mode .card h3 {
+        color: #333;
+    }
+
+    .light-mode .card p {
+        color: #666;
+    }
+
+.light-mode #DivPDF a {
+    background: #007bff;
+}
+
+    .light-mode #DivPDF a:hover {
+        background: #0056b3;
+    }
+
+/* =================== */
+/* Tema Dark (Escuro) */
+/* =================== */
+body.dark-mode {
+    background-color: #121212;
+    color: #f1f1f1;
+}
+
+.dark-mode .filters-section {
+    background: #333;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+}
+
+.dark-mode .card {
+    background: #1e1e1e;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+}
+
+    .dark-mode .card h3 {
+        color: #ddd;
+    }
+
+    .dark-mode .card p {
+        color: #ccc;
+    }
+
+.dark-mode #DivPDF a {
+    background: #0056b3;
+}
+
+    .dark-mode #DivPDF a:hover {
+        background: #003f7f;
+    }

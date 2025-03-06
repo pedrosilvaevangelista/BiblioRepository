@@ -1,0 +1,195 @@
+﻿/* Importação de fontes */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Lora:wght@400;700&family=Oswald:wght@400;700&display=swap');
+
+/* 
+  Variáveis de cor para cada tema.
+  O tema padrão (rosa) é definido em :root.
+*/
+:root {
+    /* Tema Padrão (Rosa) */
+    --sidebar-bg: #fce9e0; /* Fundo da sidebar */
+    --sidebar-text: #1a4852; /* Texto e links */
+    --sidebar-hover: #fda179; /* Hover do link */
+    --sidebar-border: #FCBEBE; /* Borda da imagem/perfil */
+    --favorites-heading: #1a4852; /* Cabeçalho de favoritos */
+    --favorites-border: #fda179; /* Borda do cabeçalho de favoritos */
+    --link-color: #1a4852; /* Cor dos links */
+    --body-bg: #ffffff; /* Fundo geral do corpo */
+    --body-text: #1a4852; /* Texto geral */
+}
+
+.dark-mode {
+    --sidebar-bg: #121212; /* Fundo preto */
+    --sidebar-text: #e0e0e0; /* Texto em cinza claro */
+    --sidebar-hover: #1e1e1e; /* Hover mais escuro */
+    --sidebar-border: #333333; /* Borda da imagem/perfil */
+    --favorites-heading: #e0e0e0; /* Cor dos títulos */
+    --favorites-border: #444444; /* Borda dos títulos */
+    --link-color: #d3d3d3; /* Links em cinza claro */
+    --body-bg: #0a0a0a; /* Fundo geral preto */
+    --body-text: #e0e0e0; /* Texto branco quebrando o contraste */
+}
+
+/* Tema Light */
+.light-mode {
+    --sidebar-bg: #f7f7f7;
+    --sidebar-text: #333333;
+    --sidebar-hover: #dddddd;
+    --sidebar-border: #bbbbbb;
+    --favorites-heading: #333333;
+    --favorites-border: #bbbbbb;
+    --link-color: #333333;
+    --body-bg: #ffffff;
+    --body-text: #333333;
+}
+
+/* Reset e configuração de fontes */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lora', serif;
+}
+
+body {
+    background: var(--body-bg);
+    color: var(--body-text);
+    font-size: 16px;
+    line-height: 1.6;
+    transition: background 0.3s, color 0.3s;
+}
+
+/* =================== */
+/* Estilos da Sidebar */
+/* =================== */
+
+/* Container da sidebar fixa */
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 260px;
+    height: 100vh;
+    background: var(--sidebar-bg);
+    padding: 20px;
+    overflow-y: auto;
+    box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+    transition: background 0.3s ease-in-out;
+}
+
+.dark-mode .sidebar {
+    box-shadow: 2px 0 5px rgba(150, 150, 150, 0.2); /* Sombra cinza suave */
+}
+
+/* Container do perfil (imagem e nome) */
+.profile-container {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 30px;
+}
+
+    /* Link que envolve o perfil para efeito de hover */
+    .profile-container a {
+        display: flex;
+        align-items: center;
+        gap: 15px;
+        text-decoration: none;
+        transition: transform 0.3s, box-shadow 0.3s;
+        cursor: pointer;
+    }
+
+/* Imagem de perfil quadrada */
+.sidebar .profile-container .profile-img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid var(--sidebar-border);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+/* Efeito de hover no link do perfil */
+.profile-container a:hover .profile-img {
+    transform: scale(1.05);
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+}
+
+#LblSession {
+    font-size: 20px;
+    color: var(--sidebar-text);
+    font-weight: bold;
+}
+
+/* Menu de navegação */
+.sidebar nav ul {
+    list-style: none;
+}
+
+    .sidebar nav ul li {
+        margin-bottom: 15px;
+    }
+
+        .sidebar nav ul li a {
+            display: block;
+            text-decoration: none;
+            color: var(--link-color);
+            padding: 12px 18px;
+            border-radius: 6px;
+            transition: background 0.3s, transform 0.2s;
+            font-family: 'Oswald', sans-serif;
+            font-size: 18px;
+        }
+
+            .sidebar nav ul li a:hover {
+                background: var(--sidebar-hover);
+                transform: translateX(5px);
+            }
+
+/* Seção de Livros Favoritos */
+.favorites-section {
+    margin-top: 40px;
+}
+
+    .favorites-section h2 {
+        color: var(--favorites-heading);
+        font-size: 20px;
+        margin-bottom: 15px;
+        padding-bottom: 5px;
+        border-bottom: 2px solid var(--body-text);
+        font-family: 'Playfair Display', serif;
+    }
+
+    .favorites-section ul {
+        list-style: none;
+    }
+
+        .favorites-section ul li {
+            margin-bottom: 10px;
+        }
+
+            .favorites-section ul li a {
+                text-decoration: none;
+                color: var(--sidebar-text);
+                display: flex;
+                align-items: center;
+                gap: 10px;
+                transition: opacity 0.3s;
+            }
+
+                .favorites-section ul li a:hover {
+                    opacity: 0.8;
+                }
+
+                .favorites-section ul li a img {
+                    width: 50px;
+                    height: 50px;
+                    border-radius: 6px;
+                    object-fit: cover;
+                }
+
+/* Espaçamento para o conteúdo principal */
+.main-content {
+    margin-left: 280px;
+    padding: 20px;
+}

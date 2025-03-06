@@ -1,0 +1,203 @@
+﻿/* ======================= */
+/* Temas - Regras Básicas  */
+/* ======================= */
+
+/* Tema Default (Rosa) */
+body.default-theme {
+    background-color: #ffe6f0; /* Fundo rosa claro */
+    color: #333;
+}
+
+/* Tema Light (Claro) */
+body.light-mode {
+    background-color: #ffffff;
+    color: #333;
+}
+
+/* Tema Dark (Escuro) */
+body.dark-mode {
+    background-color: #121212;
+    color: #f1f1f1;
+}
+
+/* ======================= */
+/* Estilos Gerais da Página */
+/* ======================= */
+
+/* Imagem de perfil */
+.profile-img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+/* Container geral */
+.page-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 20px;
+}
+
+/* Área dos cards */
+.cards-section {
+    flex: 1;
+    margin-right: 20px;
+}
+
+/* Área dos filtros */
+.filters-section {
+    width: 300px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    height: 100vh; /* Ocupa toda a altura da tela */
+    box-sizing: border-box;
+    padding: 15px;
+}
+
+/* ======================= */
+/* Estilos dos Cards       */
+/* ======================= */
+
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+    justify-content: center;
+}
+
+.card {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    text-align: center;
+    transition: transform 0.3s;
+}
+
+    .card:hover {
+        transform: scale(1.05);
+    }
+
+    .card h3 {
+        font-size: 1.5rem;
+        color: #333;
+        margin-bottom: 10px;
+    }
+
+    .card p {
+        font-size: 1rem;
+        color: #666;
+        margin: 5px 0;
+    }
+
+.card-img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+/* ======================= */
+/* PDF Link                */
+/* ======================= */
+
+#DivPDF {
+    margin-top: 10px;
+}
+
+    #DivPDF a {
+        display: inline-block;
+        padding: 8px 12px;
+        background: #007bff;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 4px;
+        transition: background 0.3s;
+    }
+
+        #DivPDF a:hover {
+            background: #0056b3;
+        }
+
+/* ======================= */
+/* Espaçamento dos Filtros */
+/* ======================= */
+
+.filter-group {
+    margin-bottom: 15px;
+}
+
+/* ======================= */
+/* Overrides por Tema       */
+/* ======================= */
+
+/* -- Tema Default (Rosa) -- */
+body.default-theme .filters-section {
+    background: pink;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+body.default-theme .card {
+    background: pink;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+    body.default-theme .card h3,
+    body.default-theme .card p {
+        color: deeppink;
+    }
+
+body.default-theme #DivPDF a {
+    background: pink;
+}
+
+    body.default-theme #DivPDF a:hover {
+        background: #e65c8b;
+    }
+
+/* -- Tema Light (Claro) -- */
+body.light-mode .filters-section {
+    background: #f7f7f7;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+body.light-mode .card {
+    background: #fff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+    body.light-mode .card h3,
+    body.light-mode .card p {
+        color: #333;
+    }
+
+body.light-mode #DivPDF a {
+    background: #007bff;
+}
+
+    body.light-mode #DivPDF a:hover {
+        background: #0056b3;
+    }
+
+/* -- Tema Dark (Escuro) -- */
+body.dark-mode .filters-section {
+    background: #333;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+}
+
+body.dark-mode .card {
+    background: #1e1e1e;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+}
+
+    body.dark-mode .card h3 {
+        color: #ddd;
+    }
+
+    body.dark-mode .card p {
+        color: #ccc;
+    }
+
+body.dark-mode

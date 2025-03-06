@@ -1,0 +1,47 @@
+﻿/* Estilo para a imagem de perfil */
+.profile-img {
+    width: 100px; /* Defina a largura desejada */
+    height: 100px; /* Defina a altura desejada */
+    object-fit: cover; /* Mantém a proporção da imagem */
+    border-radius: 50%; /* Torna a imagem redonda */
+}
+
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+    padding: 20px;
+    justify-content: center;
+}
+
+.card {
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    padding: 15px;
+    text-align: center;
+    transition: transform 0.3s;
+}
+
+    .card:hover {
+        transform: scale(1.05);
+    }
+
+    .card h3 {
+        font-size: 1.5rem;
+        color: #333;
+        margin-bottom: 10px;
+    }
+
+    .card p {
+        font-size: 1rem;
+        color: #666;
+        margin: 5px 0;
+    }
+
+.card-img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    margin-top: 10px;
+}

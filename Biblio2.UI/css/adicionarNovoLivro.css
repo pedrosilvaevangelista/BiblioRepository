@@ -1,0 +1,92 @@
+﻿/* Estilização geral */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container do formulário */
+.formulario {
+    max-width: 600px;
+    background: #fff;
+    padding: 20px;
+    margin: 30px auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilização da lista */
+.CadastroRequisicao {
+    list-style: none;
+    padding: 0;
+}
+
+    .CadastroRequisicao li {
+        margin-bottom: 15px;
+    }
+
+/* Título principal */
+h1 {
+    font-size: 1.8rem;
+    color: #333;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Campos de entrada */
+input[type="text"],
+input[type="date"],
+textarea,
+select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 1rem;
+    box-sizing: border-box;
+}
+
+textarea {
+    resize: none;
+    height: 80px;
+}
+
+/* Botões */
+button, input[type="submit"], input[type="button"] {
+    background: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    font-size: 1rem;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background 0.3s;
+}
+
+    button:hover, input[type="submit"]:hover, input[type="button"]:hover {
+        background: #0056b3;
+    }
+
+/* Mensagens de erro */
+label[forecolor="Red"] {
+    color: red;
+    font-size: 0.9rem;
+}
+
+/* Imagens pré-visualizadas */
+asp\:Image {
+    display: block;
+    margin: 10px auto;
+    border-radius: 5px;
+    object-fit: cover;
+    background: #eaeaea;
+    padding: 5px;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    .formulario {
+        max-width: 90%;
+    }
+}
