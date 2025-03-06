@@ -153,6 +153,12 @@ O **Biblio2.0** é um sistema para gerenciamento de livros digitais, permitindo 
 
 1️⃣ **O usuário interage com a interface (UI).**
 
+2️⃣ **Os dados são processados na camada BLL, aplicando regras de negócio.**
+
+3️⃣ **A camada DAL acessa o banco de dados para buscar ou salvar informações.**
+
+4️⃣ **Os resultados são retornados para a UI e exibidos ao usuário.**
+
 ## **📌 Resumo da Estrutura do Projeto**
 
 ```
