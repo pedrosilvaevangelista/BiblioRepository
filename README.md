@@ -1,8 +1,6 @@
-### Biblio
+### **Objetivo do Projeto Biblio**
 
-### **Objetivo do Projeto Biblio 2.0**
-
-O **Biblio 2.0** é uma plataforma digital sem fins lucrativos, desenvolvida para democratizar o acesso à literatura e facilitar a publicação e distribuição de obras literárias. Seu principal objetivo é conectar **autores independentes** a um **público amplo de leitores**, promovendo a divulgação de obras de forma gratuita e incentivando o prazer pela leitura.
+O **Biblio** é uma plataforma digital sem fins lucrativos, desenvolvida para democratizar o acesso à literatura e facilitar a publicação e distribuição de obras literárias. Seu principal objetivo é conectar **autores independentes** a um **público amplo de leitores**, promovendo a divulgação de obras de forma gratuita e incentivando o prazer pela leitura.
 
 ---
 
