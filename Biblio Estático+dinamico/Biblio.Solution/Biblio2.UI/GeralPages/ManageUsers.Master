@@ -1,0 +1,69 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="ManageUsers.master.cs" Inherits="Biblio2.UI.GeralPages.ManageUsers" %>
+
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+     <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <title></title>
+    <link href="../css/manageUsers.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server"></asp:ContentPlaceHolder>
+      <script src="../Scripts/Theme.js"></script>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="page-container">
+            <!-- Sidebar fixa com filtros, navegação e favoritos -->
+            <div class="sidebar">
+                <!-- Imagem de Perfil e Nome do Usuário -->
+                <div class="profile-container">
+                    <a href="Perfil.aspx" style="display: flex; align-items: center; gap: 10px; text-decoration: none;">
+                        <asp:Image ID="imgPerfil" runat="server" CssClass="profile-img" AlternateText="Imagem do Perfil" />
+                        <asp:Label ID="LblSession" runat="server" />
+                    </a>
+                </div>
+                <!-- Menu de navegação -->
+                <nav>
+                    <ul>
+                        <li><a href="Inicio.aspx">Início</a></li>
+                        <li><a href="Catalogo.aspx">Catálogo</a></li>
+                        <li><a href="Ajustes.aspx">Ajustes</a></li>
+                        <li id="addlivro" runat="server">
+                            <a href="../Author/AdicionarNovoLivro.aspx">Adicionar novo livro</a>
+                        </li>
+                    </ul>
+                </nav>
+                <!-- Seção de Livros Favoritos -->
+                <div class="favorites-section">
+                    <h2>Favoritos</h2>
+                    <asp:Repeater ID="rptFavoritosIcon" runat="server">
+                        <HeaderTemplate>
+                            <ul>
+                        </HeaderTemplate>
+                        <ItemTemplate>
+                            <li>
+                                <a href='<%# "../GeralPages/TemplateLivro.aspx?idLivro=" + Eval("LivroId") %>'>
+                                    <img src='<%# ResolveUrl(Eval("UrlIconLivro").ToString()) %>' alt='<%# Eval("TituloLivro") %>' />
+                                    <span><%# Eval("TituloLivro") %></span>
+                                </a>
+                            </li>
+                        </ItemTemplate>
+                        <FooterTemplate>
+                            </ul>
+                       
+                        </FooterTemplate>
+                    </asp:Repeater>
+                </div>
+            </div>
+            <!-- Área principal para o conteúdo das páginas -->
+            <div class="main-content">
+                <asp:ContentPlaceHolder ID="MainContent" runat="server"></asp:ContentPlaceHolder>
+            </div>
+        </div>
+         <!-- Bootstrap JS -->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    </form>
+</body>
+</html>

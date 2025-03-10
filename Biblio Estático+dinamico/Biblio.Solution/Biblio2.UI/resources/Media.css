@@ -1,0 +1,858 @@
+@media (min-width: 320px) and (max-width: 576px) {
+
+    /* Para smartphones */
+    /* #region nav */
+    .navbar {
+        padding-top: 20px;
+    }
+
+    .navbar-brand img {
+        width: 6em;
+    }
+
+    .nav-link {
+        font-size: 14px;
+    }
+
+    .navbar-nav .nav-item {
+        margin: 5px 0;
+    }
+
+    .navbar-toggler {
+        font-size: 1.2rem;
+    }
+
+    /* #endregion */
+
+    /* #region home */
+    #Home {
+        flex-direction: column;
+        height: auto;
+        padding: 20px;
+        text-align: center;
+    }
+
+    .textshome {
+        margin-left: 0;
+        padding-right: 0;
+    }
+
+    .textshome h1 {
+        font-size: 2.5rem;
+        margin-top: 40px;
+    }
+
+    .textshome h2 {
+        font-size: 1.5rem;
+    }
+
+    .hero-buttons .btn1 {
+        font-size: 0.9rem;
+    }
+
+    .imghome {
+        justify-content: center;
+        margin-right: 0;
+    }
+
+    .imghome img {
+        width: 90%;
+    }
+
+    /* #endregion */
+
+    /* #region about */
+    #About {
+        padding: 40px 20px;
+
+        .about-container {
+            flex-direction: column;
+            text-align: center;
+
+
+        }
+    }
+
+    #About .mySwiper {
+        width: 90vw;
+        /* Aumenta um pouco a largura */
+        height: 40vh;
+        /* Ajusta a altura para comportar mais conteúdo */
+        overflow-y: auto;
+
+    }
+
+    .swiper-slide h1 {
+        font-size: 1em;
+    }
+
+    .swiper-slide p {
+        font-size: 0.5em;
+    }
+
+    .image-container img {
+        display: none;
+    }
+
+    .image-container .btn2 {
+        height: 10vh;
+        font-size: 1rem;
+
+
+    }
+
+    /* #endregion */
+
+    /* #region catalogo */
+    #Catalogo {
+        width: 90vw;
+        height: auto;
+
+        & .titulo h1 {
+            padding: 1.5em;
+        }
+    }
+
+
+    /* #endregion */
+
+    /* #region avaliações */
+    #Testimonials {
+        padding: 12px;
+        width: 100vw;
+        height: 100vh;
+
+        & #testimonials_header h1 {
+            font-size: 20px;
+        }
+
+        & #testimonials_header h2 {
+            font-size: 28px;
+        }
+
+        /* & #testimonials .mySwiper {
+            width: 100vw;
+            height: 100vh;
+        } */
+    }
+
+    /* #endregion */
+
+    /* #region contatos */
+    #Contatenos {
+        flex-direction: column;
+        text-align: center;
+        gap: 20px;
+
+        .informacaocontato h1 {
+            font-size: 2.5em;
+        }
+
+        .informacaocontato p {
+            font-size: 1em;
+        }
+
+        .imgcontato img {
+            width: 80%;
+        }
+    }
+
+    /* #endregion */
+
+    /* #region footer */
+    footer {
+        padding: 20px;
+
+        & footer h1 {
+            font-size: 1.5rem;
+        }
+    }
+
+    /* #endregion */
+}
+
+@media (min-width: 577px) and (max-width: 768px) {
+    /* Para smartphones grandes e tablet pequenos */
+    /* Para tablets pequenos */
+
+    /* #region nav */
+    .navbar {
+        padding-top: 15px;
+    }
+
+    .navbar-brand img {
+        width: 7em;
+    }
+
+    .nav-link {
+        font-size: 16px;
+    }
+
+    .navbar-nav .nav-item {
+        margin: 8px 0;
+    }
+
+    .navbar-toggler {
+        font-size: 1.3rem;
+    }
+
+    /* #endregion */
+
+    /* #region home */
+    #Home {
+        flex-direction: column;
+        height: auto;
+        padding: 30px;
+        text-align: center;
+    }
+
+    .textshome {
+        margin-left: 0;
+        padding-right: 0;
+    }
+
+    .textshome h1 {
+        font-size: 3rem;
+        margin-top: 30px;
+    }
+
+    .textshome h2 {
+        font-size: 1.8rem;
+    }
+
+    .hero-buttons .btn1 {
+        font-size: 1rem;
+    }
+
+    .imghome {
+        justify-content: center;
+        margin-right: 0;
+    }
+
+    .imghome img {
+        width: 85%;
+    }
+
+    /* #endregion */
+
+    /* #region about */
+    #About {
+        padding: 50px 30px;
+    }
+
+    .about-container {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    #About .mySwiper {
+        width: 85vw;
+        /* Aumenta a largura */
+        height: 45vh;
+        /* Ajusta a altura para caber melhor */
+        overflow-y: auto;
+    }
+
+    .swiper-slide h1 {
+        font-size: 1.2em;
+    }
+
+    .swiper-slide p {
+        font-size: 0.7em;
+    }
+
+    .image-container img {
+        display: none;
+    }
+
+    .image-container .btn2 {
+        height: 12vh;
+        font-size: 1.1rem;
+    }
+
+    /* #endregion */
+
+    /* #region catálogo */
+    #Catalogo {
+        width: 85vw;
+        height: auto;
+    }
+
+    #Catalogo .titulo h1 {
+        padding: 2.5em;
+        font-size: 2rem;
+    }
+
+    /* #endregion */
+
+    /* #region avaliações */
+    #Testimonials {
+        padding: 20px;
+        width: 100vw;
+        height: 90vh;
+    }
+
+    #Testimonials_header h1 {
+        font-size: 22px;
+    }
+
+    #Testimonials_header h2 {
+        font-size: 30px;
+    }
+
+    /* #endregion */
+
+    /* #region contatos */
+    #Contatenos {
+        flex-direction: column;
+        text-align: center;
+        gap: 25px;
+    }
+
+    .informacaocontato h1 {
+        font-size: 3em;
+    }
+
+    .informacaocontato p {
+        font-size: 1.2em;
+    }
+
+    .imgcontato img {
+        width: 75%;
+    }
+
+    /* #endregion */
+
+    /* #region footer */
+    footer {
+        padding: 25px;
+    }
+
+    footer h1 {
+        font-size: 1.8rem;
+    }
+
+    /* #endregion */
+}
+
+
+@media (min-width: 769px) and (max-width: 992px) {
+    /* Para tablets grandes e notebooks pequenos */
+
+    /* #region nav */
+    .navbar {
+        padding-top: 10px;
+    }
+
+    .navbar-brand img {
+        width: 8em;
+    }
+
+    .nav-link {
+        font-size: 18px;
+    }
+
+    .navbar-nav .nav-item {
+        margin: 10px 0;
+    }
+
+    .navbar-toggler {
+        font-size: 1.5rem;
+    }
+
+    /* #endregion */
+
+    /* #region home */
+    #Home {
+        flex-direction: row;
+        align-items: center;
+        height: auto;
+        padding: 40px;
+        text-align: left;
+    }
+
+    .textshome {
+        margin-left: 0;
+        padding-right: 20px;
+    }
+
+    .textshome h1 {
+        font-size: 3.5rem;
+        margin-top: 20px;
+    }
+
+    .textshome h2 {
+        font-size: 2rem;
+    }
+
+    .hero-buttons .btn1 {
+        font-size: 1.2rem;
+    }
+
+    .imghome {
+        justify-content: center;
+        margin-right: 0;
+    }
+
+    .imghome img {
+        width: 70%;
+    }
+
+    /* #endregion */
+
+    /* #region about */
+    #About {
+        padding: 40px 20px;
+    }
+
+    .about-container {
+        flex-direction: row;
+        text-align: left;
+        gap: 30px;
+    }
+
+    #About .mySwiper {
+        width: 75vw;
+        height: 50vh;
+        overflow-y: hidden;
+    }
+
+    .swiper-slide h1 {
+        font-size: 1.5em;
+    }
+
+    .swiper-slide p {
+        font-size: 0.9em;
+    }
+
+    .image-container img {
+        display: block;
+        display: none;
+    }
+
+    .image-container .btn2 {
+        height: 12vh;
+        font-size: 1.2rem;
+        padding: 1rem 2rem;
+    }
+
+    /* #endregion */
+
+    /* #region catálogo */
+    #Catalogo {
+        width: 80vw;
+        height: auto;
+    }
+
+    #Catalogo .titulo h1 {
+        padding: 1em;
+        font-size: 2rem;
+    }
+
+    /* #endregion */
+
+    /* #region avaliações */
+    #Testimonials {
+        padding: 30px;
+        width: 100vw;
+        height: auto;
+    }
+
+    #Testimonials_header h1 {
+        font-size: 24px;
+    }
+
+    #Testimonials_header h2 {
+        font-size: 32px;
+    }
+
+    /* #endregion */
+
+    /* #region contatos */
+    #Contatenos {
+        flex-direction: row;
+        text-align: left;
+        gap: 30px;
+    }
+
+    .informacaocontato h1 {
+        font-size: 3.2em;
+    }
+
+    .informacaocontato p {
+        font-size: 1.3em;
+    }
+
+    .imgcontato img {
+        width: 55vw;
+    }
+
+    /* #endregion */
+
+    /* #region footer */
+    footer {
+        padding: 30px;
+    }
+
+    footer h1 {
+        font-size: 2rem;
+    }
+
+    /* #endregion */
+}
+
+
+@media (min-width: 993px) and (max-width: 1199px) {
+    /* Para notebooks médios e telas intermediárias */
+
+    /* #region nav */
+    .navbar {
+        padding-top: 10px;
+    }
+
+    .navbar-brand img {
+        width: 9em;
+    }
+
+    .nav-link {
+        font-size: 20px;
+    }
+
+    .navbar-nav .nav-item {
+        margin: 10px 15px;
+    }
+
+    .navbar-toggler {
+        font-size: 1.7rem;
+    }
+
+    /* #endregion */
+
+    /* #region home */
+    #Home {
+        flex-direction: row;
+        align-items: center;
+        height: auto;
+        padding: 50px;
+        text-align: left;
+    }
+
+    .textshome {
+        margin-left: 0;
+        padding-right: 30px;
+    }
+
+    .textshome h1 {
+        font-size: 4rem;
+        margin-top: 20px;
+    }
+
+    .textshome h2 {
+        font-size: 2.5rem;
+    }
+
+    .hero-buttons .btn1 {
+        font-size: 1.3rem;
+    }
+
+    .imghome {
+        justify-content: center;
+        margin-right: 0;
+    }
+
+    .imghome img {
+        width: 65%;
+    }
+
+    /* #endregion */
+
+    /* #region about */
+    #About {
+        padding: 60px 50px;
+    }
+
+    .about-container {
+        flex-direction: row;
+        text-align: left;
+        gap: 50px;
+    }
+
+    #About .mySwiper {
+        width: 70vw;
+        height: 50vh;
+        overflow-y: hidden;
+    }
+
+    .swiper-slide h1 {
+        font-size: 1.8em;
+    }
+
+    .swiper-slide p {
+        font-size: 1.2em;
+    }
+
+    .image-container img {
+        display: block;
+        width: 15vw;
+        height: 30vh;
+    }
+
+    .image-container .btn2 {
+        width: 15vw;
+        font-size: 1rem;
+    }
+
+    /* #endregion */
+
+    /* #region catálogo */
+    #Catalogo {
+        width: 75vw;
+        height: auto;
+    }
+
+    #Catalogo .titulo h1 {
+        padding: 2em;
+        font-size: 2rem;
+    }
+    #Catalogo .titulo p{
+        font-size: 1.2em;
+    }
+
+    /* #endregion */
+
+    /* #region avaliações */
+    #Testimonials {
+        padding: 40px;
+        width: 100vw;
+        height: auto;
+    }
+
+    #Testimonials_header h1 {
+        font-size: 26px;
+    }
+
+    #Testimonials_header h2 {
+        font-size: 36px;
+    }
+
+    #Testimonials_header p {
+        font-size: 17px;
+        margin: auto;
+    }
+
+    #Testimonials .testimonial-quote {
+        color: #637381;
+        font-size: 19px;
+    }
+
+
+    /* #endregion */
+
+    /* #region contatos */
+    #Contatenos {
+        flex-direction: row;
+        text-align: left;
+        gap: 50px;
+    }
+
+    .informacaocontato h1 {
+        font-size: 3.5em;
+    }
+
+    .informacaocontato p {
+        font-size: 1.5em;
+    }
+
+    .imgcontato img {
+        width: 50vw;
+    }
+
+    /* #endregion */
+
+    /* #region footer */
+    footer {
+        padding: 40px;
+        font-size: 1.5em;
+    }
+
+    footer h1 {
+        font-size: 2.2rem;
+    }
+
+    .fonte li a{
+        font-size: 1.3em;
+
+    }
+
+    /* #endregion */
+}
+
+
+@media (min-width: 1200px) and (max-width: 2559px) {
+    /* Para telas grandes e monitores Full HD/2K */
+
+    /* #region nav */
+    .navbar {
+        padding-top: 15px;
+    }
+
+    .navbar-brand img {
+        width: 10em;
+    }
+
+    .nav-link {
+        font-size: 22px;
+    }
+
+    .navbar-nav .nav-item {
+        margin: 15px 20px;
+    }
+
+    .navbar-toggler {
+        font-size: 2rem;
+    }
+
+    /* #endregion */
+
+    /* #region home */
+    #Home {
+        flex-direction: row;
+        align-items: center;
+        height: auto;
+        padding: 80px;
+        text-align: left;
+    }
+
+    .textshome {
+        margin-left: 0;
+        padding-right: 50px;
+    }
+
+    .textshome h1 {
+        font-size: 5rem;
+        margin-top: 20px;
+    }
+
+    .textshome h2 {
+        font-size: 3rem;
+    }
+
+    .hero-buttons .btn1 {
+        font-size: 1.5rem;
+        padding: 15px 40px;
+    }
+
+    .imghome {
+        justify-content: center;
+        margin-right: 0;
+    }
+
+    .imghome img {
+        width: 55%;
+    }
+
+    /* #endregion */
+
+    /* #region about */
+    #About {
+        padding: 80px 100px;
+    }
+
+    .about-container {
+        flex-direction: row;
+        text-align: left;
+        gap: 80px;
+    }
+
+    #About .mySwiper {
+        width: 60vw;
+        height: 50vh;
+        overflow-y: hidden;
+    }
+
+    .swiper-slide h1 {
+        font-size: 2.2em;
+    }
+
+    .swiper-slide p {
+        font-size: 1em;
+    }
+
+    .image-container img {
+        display: block;
+        width: 45%;
+    }
+
+    .image-container .btn2 {
+        height: 14vh;
+        font-size: 1.5rem;
+    }
+
+    /* #endregion */
+
+    /* #region catálogo */
+    #Catalogo {
+        width: 70vw;
+        height: auto;
+    }
+
+    #Catalogo .titulo h1 {
+        padding: 1.8em;
+        font-size: 4rem;
+    }
+    #Catalogo .titulo p {
+        font-size: 1.2em;
+        padding: 0 0 15px;
+    }
+
+    /* #endregion */
+
+    /* #region avaliações */
+    #Testimonials {
+        padding: 60px;
+        width: 100vw;
+        height: auto;
+    }
+
+    #Testimonials_header h1 {
+        font-size: 30px;
+    }
+
+    #Testimonials_header h2 {
+        font-size: 42px;
+    }
+
+    /* #endregion */
+
+    /* #region contatos */
+    #Contatenos {
+        flex-direction: row;
+        text-align: left;
+        gap: 80px;
+    }
+
+    .informacaocontato h1 {
+        font-size: 4em;
+    }
+
+    .informacaocontato p {
+        font-size: 1.8em;
+    }
+
+    .imgcontato img {
+        width: 50%;
+    }
+
+    /* #endregion */
+
+    /* #region footer */
+    footer {
+        padding: 50px;
+    }
+
+    footer h1 {
+        font-size: 2.5rem;
+    }
+
+    /* #endregion */
+}

@@ -1,0 +1,291 @@
+﻿<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4F156177-F2D7-40A9-A709-8B2DE18F9024}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Biblio2.UI</RootNamespace>
+    <AssemblyName>Biblio2.UI</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Author\AdicionarNovoLivro.aspx" />
+    <Content Include="Cadastro.aspx" />
+    <Content Include="css\adicionarNovoLivro.css" />
+    <Content Include="css\ajustes.css" />
+    <Content Include="css\cadastro.css" />
+    <Content Include="css\catalogo.css" />
+    <Content Include="css\editarPerfil.css" />
+    <Content Include="css\inicio.css" />
+    <Content Include="css\login.css" />
+    <Content Include="css\manageUsers.css" />
+    <Content Include="css\perfil.css" />
+    <Content Include="css\templateLivro.css" />
+    <Content Include="GeralPages\Ajustes.aspx" />
+    <Content Include="GeralPages\Catalogo.aspx" />
+    <Content Include="GeralPages\EditarPerfil.aspx" />
+    <Content Include="GeralPages\Inicio.aspx" />
+    <Content Include="GeralPages\Perfil.aspx" />
+    <Content Include="GeralPages\TemplateLivro.aspx" />
+    <Content Include="img\FotoPerfilUsuario\FotoPerfilDefault.jpg" />
+    <Content Include="img\ImagensLivroRequisicao\1001 Moleques e 1 Homem.png" />
+    <Content Include="img\ImagensLivroRequisicao\A Fome Insaciavel.png" />
+    <Content Include="img\ImagensLivroRequisicao\A Mente Esta Cansada.png" />
+    <Content Include="img\ImagensLivroRequisicao\A Missao.png" />
+    <Content Include="img\ImagensLivroRequisicao\A obsessão.png" />
+    <Content Include="img\ImagensLivroRequisicao\A Vida Nao E Um morango.png" />
+    <Content Include="img\ImagensLivroRequisicao\alice.jpg.png" />
+    <Content Include="img\ImagensLivroRequisicao\Amores de Plastico.png" />
+    <Content Include="img\ImagensLivroRequisicao\Coisas Que eu Aprendi Fazendo Merda.png" />
+    <Content Include="img\ImagensLivroRequisicao\Como Enganar Um Otario.png" />
+    <Content Include="img\ImagensLivroRequisicao\Em Busca de um milagre.png" />
+    <Content Include="img\ImagensLivroRequisicao\Era Pa Ri.png" />
+    <Content Include="img\ImagensLivroRequisicao\Fred E Chris Amigos Insaparaveis.png" />
+    <Content Include="img\ImagensLivroRequisicao\Me Deixe Entrar Papai.png" />
+    <Content Include="img\ImagensLivroRequisicao\Nao Minta Olhando em Meus Olhos.png" />
+    <Content Include="img\ImagensLivroRequisicao\Nunca e um Adeus.png" />
+    <Content Include="img\ImagensLivroRequisicao\O Complicado.png" />
+    <Content Include="img\ImagensLivroRequisicao\O Jogo Da Saudade.png" />
+    <Content Include="img\ImagensLivroRequisicao\O Maniaco De Sao Miguel.png" />
+    <Content Include="img\ImagensLivroRequisicao\O Milagre.png" />
+    <Content Include="img\ImagensLivroRequisicao\O Objetivo.png" />
+    <Content Include="img\ImagensLivroRequisicao\O Plano Da Facada.png" />
+    <Content Include="img\ImagensLivroRequisicao\Quando Eu Era Mais Jovem.png" />
+    <Content Include="img\ImagensLivroRequisicao\Roubaram Minha Mulher.png" />
+    <Content Include="img\ImagensLivroRequisicao\Sozinho deixado para morrer.png" />
+    <Content Include="img\ImagensLivroRequisicao\Um Amor Fragmentado.png" />
+    <Content Include="img\ImagensLivroRequisicao\Um Amor Na U.T.I.png" />
+    <Content Include="img\ImagensLivroRequisicao\Uma Hippie Muito Louca.png" />
+    <Content Include="img\logobibliosemfundo.png" />
+    <Content Include="img\logocomnomebiblio.png" />
+    <Content Include="Index.html" />
+    <Content Include="Login.aspx" />
+    <Content Include="resources\Img\1001 Moleques e 1 Homem.png" />
+    <Content Include="resources\Img\avatar1.jpg" />
+    <Content Include="resources\Img\avatar2.jpg" />
+    <Content Include="resources\Img\avatar3.jpg" />
+    <Content Include="resources\Img\avatar4.jpg" />
+    <Content Include="resources\Img\avatar5.jpg" />
+    <Content Include="resources\Img\avatar6.jpg" />
+    <Content Include="resources\Img\Background1.png" />
+    <Content Include="resources\Img\Background2.png" />
+    <Content Include="resources\Img\BiblioNome.png" />
+    <Content Include="resources\Img\book-reader-solid-24.png" />
+    <Content Include="resources\Img\imagemslider1.png" />
+    <Content Include="resources\Img\imagemslider2.png" />
+    <Content Include="resources\Img\imagemslider3.png" />
+    <Content Include="resources\Img\image__1_-removebg-preview.png" />
+    <Content Include="resources\Img\imghome.png" />
+    <Content Include="resources\Img\imgLivros.png" />
+    <Content Include="resources\Img\Livro1.png" />
+    <Content Include="resources\Img\Livro10.png" />
+    <Content Include="resources\Img\Livro2.png" />
+    <Content Include="resources\Img\Livro3.png" />
+    <Content Include="resources\Img\Livro4.png" />
+    <Content Include="resources\Img\Livro5.png" />
+    <Content Include="resources\Img\Livro6.png" />
+    <Content Include="resources\Img\Livro7.png" />
+    <Content Include="resources\Img\Livro8.png" />
+    <Content Include="resources\Img\Livro9.png" />
+    <Content Include="resources\Img\logo biblio sem fundo.png" />
+    <Content Include="resources\Img\logocomnomebiblio.png" />
+    <Content Include="resources\Img\mininanoslivros.jpg" />
+    <Content Include="resources\Media.css" />
+    <Content Include="resources\Script.js" />
+    <Content Include="resources\Style.css" />
+    <Content Include="Scripts\Theme.js" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Author\AdicionarNovoLivro.aspx.cs">
+      <DependentUpon>AdicionarNovoLivro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Author\AdicionarNovoLivro.aspx.designer.cs">
+      <DependentUpon>AdicionarNovoLivro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro.aspx.cs">
+      <DependentUpon>Cadastro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Cadastro.aspx.designer.cs">
+      <DependentUpon>Cadastro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GeralPages\Ajustes.aspx.cs">
+      <DependentUpon>Ajustes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GeralPages\Ajustes.aspx.designer.cs">
+      <DependentUpon>Ajustes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GeralPages\Catalogo.aspx.cs">
+      <DependentUpon>Catalogo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GeralPages\Catalogo.aspx.designer.cs">
+      <DependentUpon>Catalogo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GeralPages\EditarPerfil.aspx.cs">
+      <DependentUpon>EditarPerfil.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GeralPages\EditarPerfil.aspx.designer.cs">
+      <DependentUpon>EditarPerfil.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GeralPages\Inicio.aspx.cs">
+      <DependentUpon>Inicio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GeralPages\Inicio.aspx.designer.cs">
+      <DependentUpon>Inicio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GeralPages\ManageUsers.Master.cs">
+      <DependentUpon>ManageUsers.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GeralPages\ManageUsers.Master.designer.cs">
+      <DependentUpon>ManageUsers.Master</DependentUpon>
+    </Compile>
+    <Compile Include="GeralPages\Perfil.aspx.cs">
+      <DependentUpon>Perfil.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GeralPages\Perfil.aspx.designer.cs">
+      <DependentUpon>Perfil.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GeralPages\TemplateLivro.aspx.cs">
+      <DependentUpon>TemplateLivro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GeralPages\TemplateLivro.aspx.designer.cs">
+      <DependentUpon>TemplateLivro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="utilities\Clear.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="GeralPages\ManageUsers.Master" />
+    <None Include="packages.config" />
+    <Content Include="pdf\ArquivoLivroRequisicao\Fred e Chris Amigos Inseparaveis.pdf" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Biblio2.BLL\Biblio2.BLL.csproj">
+      <Project>{7ee083a2-ef47-4ab3-a636-fb7b1b97bd2a}</Project>
+      <Name>Biblio2.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Biblio2.DTO\Biblio2.DTO.csproj">
+      <Project>{e968cfa7-45de-48df-b783-ec1b1710531e}</Project>
+      <Name>Biblio2.DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>49365</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:49365/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este projeto faz referência a pacotes do NuGet que não estão presentes neste computador. Use a Restauração de Pacotes do NuGet para baixá-los.  Para obter mais informações, consulte http://go.microsoft.com/fwlink/?LinkID=322105. O arquivo ausente é {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.1\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

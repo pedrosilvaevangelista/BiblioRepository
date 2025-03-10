@@ -1,0 +1,166 @@
+﻿/* Reset básico */
+:root {
+    /* cores */
+    --Tom1: #fce9e0;
+    --Tom2: #FCBEBE;
+    --Tom3: #fda179;
+    --Tom4: #1a4852;
+    --Tom-branco: #ffffff;
+    --Tom-Preto: #000000;
+    --Tom-Gradient: linear-gradient(to bottom, #FADDB4, #F7CFA3);
+    overflow-x: hidden;
+    scroll-behavior: smooth;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Corpo da página */
+body {
+    background: linear-gradient(135deg, #FCBEBE, #ffffff);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 20px;
+}
+
+/* NavBar*/
+.navbar {
+    padding: 10px;
+    text-align: center;
+}
+
+.navbar-logo {
+    height: 50px;
+    width: auto;
+}
+
+/* Estilização do formulário */
+form {
+    background: #fff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    width: 350px;
+    text-align: center;
+}
+
+/* Título */
+h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #1a4852;
+    font-weight: bold;
+}
+
+/* Lista de inputs */
+ul.Login {
+    list-style: none;
+    padding: 0;
+}
+
+    /* Cada item da lista */
+    ul.Login li {
+        margin-bottom: 15px;
+    }
+
+/* Inputs */
+input[type="text"],
+input[type="password"] {
+    width: 100%;
+    padding: 12px;
+    border: 2px solid #ccc;
+    border-radius: 6px;
+    font-size: 16px;
+    transition: 0.3s;
+}
+
+    input[type="text"]:focus,
+    input[type="password"]:focus {
+        border-color: #007BFF;
+        outline: none;
+    }
+
+/* Estilização dos botões */
+ul.Login li:last-child {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+asp\:Button {
+    width: 100%;
+    padding: 12px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+/* Botão Entrar */
+#btnEntrar {
+    background: #1a4852;
+    border: none;
+    color: #ffffff;
+    width: 6vw;
+    font-weight: 600;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+    #btnEntrar:hover {
+        background: #fda179;
+        color: #1a4852;
+    }
+
+/* Botão Cancelar */
+#btnCancelar {
+    background: #fda179;
+    border: none;
+    color: #1a4852;
+    font-weight: 600;
+    width: 6vw;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+    #btnCancelar:hover {
+        background: #1a4852;
+        color: #ffffff;
+    }
+
+/* Botão Cadastro */
+#BtnCadastro {
+    background: #fda179;
+    border: none;
+    color: #1a4852;
+    font-weight: 700;
+    padding: 5px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: .5s;
+}
+
+    #BtnCadastro:hover {
+        background: #fcbebe;
+    }
+
+/* Mensagem de erro */
+asp\:Label {
+    display: block;
+    font-size: 14px;
+    color: red;
+    margin-top: 5px;
+}

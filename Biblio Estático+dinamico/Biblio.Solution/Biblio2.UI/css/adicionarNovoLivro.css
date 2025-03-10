@@ -1,0 +1,286 @@
+﻿/* ========== VARIÁVEIS DE TEMA ========== */
+:root {
+    /* Tema Padrão (Rosa com Tons Suaves) */
+    --primary-bg: #FFF7F3;
+    --secondary-bg: #FFFFFF;
+    --accent-color: #FF6B6B;
+    --text-primary: #2E2E2E;
+    --text-secondary: #666666;
+    --border-color: #E0E0E0;
+    --hover-bg: #FFF0EB;
+    --shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+    --error-color: #FF4444;
+}
+
+.dark-mode {
+    --primary-bg: #1A1A1A;
+    --secondary-bg: #2D2D2D;
+    --accent-color: #FF6B6B;
+    --text-primary: #FFFFFF;
+    --text-secondary: #CCCCCC;
+    --border-color: #404040;
+    --hover-bg: #333333;
+    --shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+    --error-color: #FF6666;
+}
+
+.light-mode {
+    --primary-bg: #FFFFFF;
+    --secondary-bg: #F8F9FA;
+    --accent-color: #FF6B6B;
+    --text-primary: #2E2E2E;
+    --text-secondary: #666666;
+    --border-color: #DEE2E6;
+    --hover-bg: #F1F1F1;
+    --shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+    --error-color: #CC0000;
+}
+
+/* Tema Contraste Extremo */
+.contrast-mode {
+    --primary-bg: #000000;
+    --secondary-bg: #000000;
+    --accent-color: #FFFF00;
+    --text-primary: #FFFFFF;
+    --text-secondary: #FFFFFF;
+    --border-color: #FFFF00;
+    --hover-bg: #333333;
+    --shadow: 0 4px 20px rgba(255, 255, 0, 0.3);
+    --error-color: #FF0000;
+}
+
+/* Tema Visão Ampliada (Miope) */
+.miope-mode {
+    --primary-bg: #FFFFFF;
+    --secondary-bg: #F8F9FA;
+    --accent-color: #FF6B6B;
+    --text-primary: #2E2E2E;
+    --text-secondary: #666666;
+    --border-color: #DEE2E6;
+    --hover-bg: #F1F1F1;
+    --shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+    --error-color: #CC0000;
+}
+
+/* ========== RESET E ESTILOS BASE ========== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', system-ui, sans-serif;
+}
+
+body {
+    background-color: var(--primary-bg);
+    color: var(--text-primary);
+    min-height: 100vh;
+    transition: background 0.3s, color 0.3s;
+}
+
+/* ========== FORMULÁRIO PRINCIPAL ========== */
+.formulario {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 2rem;
+}
+
+.CadastroRequisicao {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+}
+
+    .CadastroRequisicao h1 {
+        color: var(--accent-color);
+        font-size: 2.2rem;
+        text-align: center;
+        margin-bottom: 2rem;
+        position: relative;
+        padding-bottom: 0.5rem;
+    }
+
+        .CadastroRequisicao h1::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 60px;
+            height: 3px;
+            background: var(--accent-color);
+        }
+
+/* ========== ELEMENTOS DO FORMULÁRIO ========== */
+[id*="txt"],
+[id*="ddl"],
+[id*="fup"] {
+    width: 100%;
+    padding: 12px 16px;
+    border: 2px solid var(--border-color);
+    border-radius: 8px;
+    background: var(--secondary-bg);
+    color: var(--text-primary);
+    font-size: 1rem;
+    transition: all 0.3s ease;
+}
+
+    [id*="txt"]:focus,
+    [id*="ddl"]:focus {
+        border-color: var(--accent-color);
+        outline: none;
+        box-shadow: 0 0 0 3px rgba(255, 107, 107, 0.2);
+    }
+
+/* Dropdown estilizado */
+[id*="ddlGenero"] {
+    appearance: none;
+    background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-position: right 12px center;
+    background-size: 1em;
+    padding-right: 2.5em;
+}
+
+/* TextArea específica */
+#txtSinopse {
+    min-height: 120px;
+    resize: vertical;
+}
+
+/* ========== UPLOAD DE ARQUIVOS ========== */
+[id*="fup"] {
+    padding: 1rem;
+    border: 2px dashed var(--border-color);
+    background: var(--secondary-bg);
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+    [id*="fup"]:hover {
+        border-color: var(--accent-color);
+        background: var(--hover-bg);
+    }
+
+/* Pré-visualização de imagens */
+[id*="imgCapa"],
+[id*="imgIcon"],
+[id*="imgBanner"] {
+    border: 3px solid var(--border-color);
+    border-radius: 8px;
+    object-fit: cover;
+    margin-top: 1rem;
+    transition: border-color 0.3s ease;
+}
+
+#imgCapa {
+    width: 200px;
+    height: 300px;
+}
+
+#imgIcon {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+#imgBanner {
+    width: 100%;
+    height: 200px;
+}
+
+/* ========== BOTÕES ========== */
+[id*="btn"] {
+    padding: 12px 24px;
+    border: none;
+    border-radius: 8px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+#btnCadastroRequisicao {
+    background: var(--accent-color);
+    color: white;
+}
+
+    #btnCadastroRequisicao:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 12px rgba(255, 107, 107, 0.3);
+    }
+
+#btnLimpar {
+    background: var(--secondary-bg);
+    color: var(--text-primary);
+    border: 2px solid var(--border-color);
+}
+
+    #btnLimpar:hover {
+        background: var(--hover-bg);
+    }
+
+/* ========== ERROS E LABELS ========== */
+[forecolor="Red"] {
+    color: var(--error-color) !important;
+    font-size: 0.9rem;
+    margin-top: 4px;
+    display: block;
+    font-weight: 500;
+}
+
+/* ========== SELETOR DE TEMA ========== */
+.theme-selector {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: var(--secondary-bg);
+    color: var(--text-primary);
+    padding: 12px 18px;
+    border-radius: 30px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    box-shadow: var(--shadow);
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+    .theme-selector select {
+        background: none;
+        border: none;
+        color: inherit;
+        font-size: 1.1rem;
+        cursor: pointer;
+    }
+
+    .theme-selector:hover {
+        background: var(--hover-bg);
+    }
+
+/* ========== AJUSTES PARA O TEMA MIOPE ========== */
+.miope-mode {
+    font-size: 1.2rem !important;
+}
+
+    .miope-mode h1 {
+        font-size: 3rem !important;
+    }
+
+    .miope-mode [id*="txt"],
+    .miope-mode [id*="ddl"],
+    .miope-mode [id*="fup"] {
+        font-size: 1.2rem !important;
+        padding: 16px 20px !important;
+    }
+
+    .miope-mode [id*="btn"] {
+        font-size: 1.2rem !important;
+        padding: 16px 32px !important;
+    }
+
+    .miope-mode .theme-selector {
+        font-size: 1.2rem !important;
+        padding: 16px 24px !important;
+    }

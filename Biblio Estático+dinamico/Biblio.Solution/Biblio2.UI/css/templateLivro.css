@@ -1,0 +1,147 @@
+﻿/* Definindo as cores principais de cada tema */
+:root {
+    /* Cores do tema claro */
+    --background-light: #FFFFFF;
+    --text-light: #333333;
+    --primary-light: #F5A3AF; /* Tom suave */
+    --button-light-bg: #F8AFB8;
+    --button-light-hover: #FDA179;
+    /* Cores do tema escuro */
+    --background-dark: #121212;
+    --text-dark: #FFFFFF;
+    --primary-dark: #1a4852; /* Tom escuro */
+    --button-dark-bg: #FDA179;
+    --button-dark-hover: #F8AFB8;
+    /* Tamanho do banner */
+    --banner-height: 300px;
+}
+
+/* Tema Claro */
+.light-theme {
+    --background: var(--background-light);
+    --text: var(--text-light);
+    --primary: var(--primary-light);
+    --button-bg: var(--button-light-bg);
+    --button-hover: var(--button-light-hover);
+    --banner-height: 350px; /* Maior altura para o banner no tema claro */
+}
+
+/* Tema Escuro */
+.dark-theme {
+    --background: var(--background-dark);
+    --text: var(--text-dark);
+    --primary: var(--primary-dark);
+    --button-bg: var(--button-dark-bg);
+    --button-hover: var(--button-dark-hover);
+    --banner-height: 300px; /* Menor altura para o banner no tema escuro */
+}
+
+/* Estilos Gerais */
+body {
+    background: var(--body-bg);
+    color: var(--body-text);
+    line-height: 1.6;
+    transition: background 0.3s, color 0.3s;
+}
+
+/* Container Principal */
+.container {
+    max-width: 1400px;
+    margin: 2rem auto;
+    padding: 0 20px;
+}
+
+/* Estilo do Banner */
+.user-banner {
+    width: 100%;
+    height: var(--banner-height);
+    object-fit: cover;
+}
+
+/* Capa do Livro */
+.book-cover {
+    max-width: 100%;
+    width: 300px;
+}
+
+/* Detalhes do Livro */
+.book-details {
+    margin-top: 20px;
+}
+
+    .book-details h2 {
+        color: var(--text);
+    }
+
+    .book-details p {
+        font-size: 1rem;
+        line-height: 1.5;
+    }
+
+/* Botões de Ação */
+.action-buttons {
+    display: grid;
+    gap: 1rem;
+    margin-top: 2rem;
+}
+
+.download-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 1rem 1.5rem;
+    background: var(--favorites-border);
+    color: var(--sidebar-bg);
+    border: none;
+    border-radius: 6px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.1rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+    .download-btn:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        background: var(--sidebar-hover);
+    }
+
+/* Avaliações */
+.reviews-section {
+    margin-top: 3rem;
+    padding: 2rem;
+    background: var(--sidebar-bg);
+    border-radius: 8px;
+}
+
+/* Ajustes Específicos de Tema */
+.dark-mode {
+    .book-meta-item
+
+{
+    background: rgba(255, 255, 255, 0.05);
+}
+
+.download-btn {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+/* Texto "Detalhes do Livro" em branco no dark mode */
+.book-details {
+    color: #FFFFFF;
+}
+
+}
+
+.light-mode {
+    .book-details
+
+{
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+}
+
+.book-banner {
+    border-bottom: 3px solid var(--sidebar-hover);
+}
+}

@@ -1,0 +1,18 @@
+C:\Users\Gabi\Source\Repos\BiblioRepository\Biblio2.DTO\bin\Debug\Biblio2.DTO.dll
+C:\Users\Gabi\Source\Repos\BiblioRepository\Biblio2.DTO\bin\Debug\Biblio2.DTO.pdb
+C:\Users\Gabi\Source\Repos\BiblioRepository\Biblio2.DTO\obj\Debug\Biblio2.DTO.csproj.AssemblyReference.cache
+C:\Users\Gabi\Source\Repos\BiblioRepository\Biblio2.DTO\obj\Debug\Biblio2.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\Source\Repos\BiblioRepository\Biblio2.DTO\obj\Debug\Biblio2.DTO.dll
+C:\Users\Gabi\Source\Repos\BiblioRepository\Biblio2.DTO\obj\Debug\Biblio2.DTO.pdb
+D:\Projetos_Visual_Studio_V2\BiblioRepository\Biblio2.DTO\bin\Debug\Biblio2.DTO.dll
+D:\Projetos_Visual_Studio_V2\BiblioRepository\Biblio2.DTO\bin\Debug\Biblio2.DTO.pdb
+D:\Projetos_Visual_Studio_V2\BiblioRepository\Biblio2.DTO\obj\Debug\Biblio2.DTO.csproj.AssemblyReference.cache
+D:\Projetos_Visual_Studio_V2\BiblioRepository\Biblio2.DTO\obj\Debug\Biblio2.DTO.csproj.CoreCompileInputs.cache
+D:\Projetos_Visual_Studio_V2\BiblioRepository\Biblio2.DTO\obj\Debug\Biblio2.DTO.dll
+D:\Projetos_Visual_Studio_V2\BiblioRepository\Biblio2.DTO\obj\Debug\Biblio2.DTO.pdb
+C:\Users\FAMILIA EVANGELISTA\Downloads\BiblioRepository\Biblio2.DTO\bin\Debug\Biblio2.DTO.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\BiblioRepository\Biblio2.DTO\bin\Debug\Biblio2.DTO.pdb
+C:\Users\FAMILIA EVANGELISTA\Downloads\BiblioRepository\Biblio2.DTO\obj\Debug\Biblio2.DTO.csproj.AssemblyReference.cache
+C:\Users\FAMILIA EVANGELISTA\Downloads\BiblioRepository\Biblio2.DTO\obj\Debug\Biblio2.DTO.csproj.CoreCompileInputs.cache
+C:\Users\FAMILIA EVANGELISTA\Downloads\BiblioRepository\Biblio2.DTO\obj\Debug\Biblio2.DTO.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\BiblioRepository\Biblio2.DTO\obj\Debug\Biblio2.DTO.pdb

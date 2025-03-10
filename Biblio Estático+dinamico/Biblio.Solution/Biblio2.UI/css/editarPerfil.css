@@ -1,0 +1,243 @@
+﻿/* ========== TEMAS ========== */
+:root {
+    /* Tema Padrão (Rosa com Tons da Paleta) */
+    --sidebar-bg: #FFF7E5; /* Tom1 (fundo suave) */
+    --sidebar-text: #59483E; /* Tom5 (texto principal) */
+    --sidebar-hover: #F5A3AF; /* Tom4 (hover suave) */
+    --body-bg: #FECDD0; /* Tom2 (fundo claro) */
+    --body-text: #59483E; /* Tom5 (texto principal) */
+    --input-bg: #FFF; /* Fundo branco para inputs */
+    --input-border: #F8AFB8; /* Tom3 (borda suave) */
+    --button-bg: #F5A3AF; /* Tom4 (rosa suave) */
+    --button-text: #FFF;
+    --card-bg: #FFF; /* Fundo branco para cards */
+    --card-shadow: rgba(245, 163, 175, 0.2); /* Sombras suaves */
+}
+
+.dark-mode {
+    --sidebar-bg: #121212;
+    --sidebar-text: #e0e0e0;
+    --sidebar-hover: #1e1e1e;
+    --body-bg: #0a0a0a;
+    --body-text: #e0e0e0;
+    --input-bg: #1e1e1e;
+    --input-border: #555;
+    --button-bg: #F5A3AF;
+    --button-text: #121212;
+    --card-bg: #1e1e1e;
+    --card-shadow: rgba(255, 255, 255, 0.1);
+}
+
+.light-mode {
+    --sidebar-bg: #F7F7F7;
+    --sidebar-text: #333;
+    --sidebar-hover: #dddddd;
+    --body-bg: #FFF;
+    --body-text: #333;
+    --input-bg: #FFF;
+    --input-border: #888;
+    --button-bg: #F5A3AF;
+    --button-text: #333;
+    --card-bg: #FFF;
+    --card-shadow: rgba(0, 0, 0, 0.1);
+}
+
+/* Tema Contraste Extremo */
+.contrast-mode {
+    --sidebar-bg: #000000;
+    --sidebar-text: #FFFFFF;
+    --sidebar-hover: #FFFF00;
+    --body-bg: #000000;
+    --body-text: #FFFFFF;
+    --input-bg: #000000;
+    --input-border: #FFFF00;
+    --button-bg: #FFFF00;
+    --button-text: #000000;
+    --card-bg: #000000;
+    --card-shadow: rgba(255, 255, 0, 0.3);
+}
+
+/* Tema Visão Ampliada (Miope) */
+.miope-mode {
+    --sidebar-bg: #FFF7E5;
+    --sidebar-text: #59483E;
+    --sidebar-hover: #F5A3AF;
+    --body-bg: #FECDD0;
+    --body-text: #59483E;
+    --input-bg: #FFF;
+    --input-border: #F8AFB8;
+    --button-bg: #F5A3AF;
+    --button-text: #FFF;
+    --card-bg: #FFF;
+    --card-shadow: rgba(245, 163, 175, 0.2);
+}
+
+/* ========== BODY ========== */
+body {
+    background: var(--body-bg);
+    color: var(--body-text);
+    font-family: 'Roboto', sans-serif;
+    transition: background 0.3s, color 0.3s;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 10px;
+    overflow-y: hidden; /* Remove rolagem vertical */
+}
+
+/* ========== CONTAINER DO FORMULÁRIO ========== */
+.form-container {
+    background: var(--card-bg);
+    padding: 1em;
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px var(--card-shadow);
+    width: auto;
+    text-align: center;
+}
+
+/* ========== TÍTULO ========== */
+h1 {
+    font-size: 22px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+    color: var(--button-bg); /* Rosa suave */
+}
+
+/* ========== INPUTS ========== */
+input[type="text"],
+input[type="password"],
+input[type="file"] {
+    width: 90%;
+    padding: 10px;
+    margin: 4px 0; /* Menor espaçamento */
+    border: 2px solid var(--input-border);
+    background: var(--input-bg);
+    color: var(--body-text);
+    border-radius: 5px;
+    transition: 0.3s;
+    font-size: 14px;
+}
+
+input:focus {
+    border-color: var(--button-bg);
+    outline: none;
+}
+
+/* ========== BOTÕES ========== */
+button,
+.btn-salvar,
+.btn-cancelar,
+.btn-sair,
+.delete-btn {
+    width: 100%;
+    padding: 12px;
+    margin-top: 8px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background 0.3s, transform 0.2s;
+}
+
+.btn-salvar {
+    background: var(--button-bg);
+    color: var(--button-text);
+}
+
+    .btn-salvar:hover {
+        background: #F8AFB8; /* Tom3 (rosa claro) */
+    }
+
+.btn-cancelar {
+    background: #F7F7F7;
+    color: var(--sidebar-text);
+}
+
+    .btn-cancelar:hover {
+        background: #F0F0F0;
+    }
+
+.delete-btn {
+    background: #F5A3AF;
+    color: white;
+}
+
+    .delete-btn:hover {
+        background: #F8AFB8;
+    }
+
+button:hover {
+    transform: scale(1.05);
+}
+
+/* ========== IMAGEM DO PERFIL ========== */
+#imgPerfil {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid var(--button-bg);
+    margin-bottom: 10px;
+}
+
+/* ========== SELETOR DE TEMA ========== */
+.theme-selector {
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    background: var(--sidebar-bg);
+    color: var(--sidebar-text);
+    padding: 8px 12px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    box-shadow: 0px 4px 10px var(--card-shadow);
+    cursor: pointer;
+    transition: background 0.3s ease;
+}
+
+    .theme-selector select {
+        background: none;
+        color: var(--sidebar-text);
+        border: none;
+        margin-left: 8px;
+        font-size: 14px;
+        cursor: pointer;
+    }
+
+    .theme-selector:hover {
+        background: var(--sidebar-hover);
+    }
+
+/* ========== AJUSTES PARA O TEMA MIOPE ========== */
+.miope-mode {
+    font-size: 1.2rem !important;
+}
+
+    .miope-mode h1 {
+        font-size: 2.5rem !important;
+    }
+
+    .miope-mode input[type="text"],
+    .miope-mode input[type="password"],
+    .miope-mode input[type="file"] {
+        font-size: 1.2rem !important;
+        padding: 12px 16px !important;
+    }
+
+    .miope-mode button,
+    .miope-mode .btn-salvar,
+    .miope-mode .btn-cancelar,
+    .miope-mode .btn-sair,
+    .miope-mode .delete-btn {
+        font-size: 1.2rem !important;
+        padding: 16px 24px !important;
+    }
+
+    .miope-mode .theme-selector {
+        font-size: 1.2rem !important;
+        padding: 12px 18px !important;
+    }

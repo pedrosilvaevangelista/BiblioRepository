@@ -1,0 +1,122 @@
+﻿/* ===================================== */
+/* Container da logo com suporte aos temas */
+/* ===================================== */
+.logo-container {
+    width: 100%;
+    background: var(--sidebar-bg); /* Usa a variável de cor do tema (rosa, dark ou light) */
+    display: flex;
+    justify-content: flex-start; /* Logo alinhada à esquerda */
+    align-items: center;
+    padding: 10px 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15); /* Sombra aprimorada */
+    margin-bottom:2em;
+}
+
+/* Diminuição da imagem da logo */
+.logo-img {
+    width: 150px;
+    height: auto;
+    padding:1em;
+}
+
+
+/* ===================================== */
+/* Estilização dos Cards                 */
+/* ===================================== */
+
+/* Seção dos Cards */
+.cards-section {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.card-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.card {
+    background: var(--sidebar-bg);
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+    .card:hover {
+        transform: scale(1.05);
+    }
+
+.card-img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+/* ===================================== */
+/* Demais estilos existentes             */
+/* ===================================== */
+/*.profile-img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+}*/
+
+/* ===================================== */
+/* Botão de Recarregar (ajustado para Bootstrap) */
+/* ===================================== */
+.btn-primary {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 15px;
+    font-weight: bold;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: background 0.3s, transform 0.2s;
+    left:0;
+    margin-bottom:3em;
+}
+
+    .btn-primary:hover {
+        background: #0056b3;
+        transform: scale(1.05);
+    }
+
+/* ===================================== */
+/* Variáveis de cores e temas            */
+/* ===================================== */
+:root {
+    /* Tema Padrão (Rosa) */
+    --sidebar-bg: #fce9e0;
+    --sidebar-text: #1a4852;
+    --sidebar-hover: #fda179;
+    --body-bg: #ffffff;
+    --body-text: #1a4852;
+}
+
+.dark-mode {
+    --sidebar-bg: #121212;
+    --sidebar-text: #e0e0e0;
+    --sidebar-hover: #1e1e1e;
+    --body-bg: #0a0a0a;
+    --body-text: #e0e0e0;
+}
+
+.light-mode {
+    --sidebar-bg: #f7f7f7;
+    --sidebar-text: #333333;
+    --sidebar-hover: #dddddd;
+    --body-bg: #ffffff;
+    --body-text: #333333;
+}
+
+body {
+    background: var(--body-bg);
+    color: var(--body-text);
+    transition: background 0.3s, color 0.3s;
+}

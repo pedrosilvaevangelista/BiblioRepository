@@ -1,0 +1,36 @@
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.DTO\bin\Debug\Biblio2.DTO.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.DTO\bin\Debug\Biblio2.DTO.pdb
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.DTO\obj\Debug\Biblio2.DTO.csproj.AssemblyReference.cache
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.DTO\obj\Debug\Biblio2.DTO.csproj.CoreCompileInputs.cache
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.DTO\obj\Debug\Biblio2.DTO.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.DTO\obj\Debug\Biblio2.DTO.pdb
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.DTO\bin\Debug\Biblio2.DTO.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.DTO\bin\Debug\Biblio2.DTO.pdb
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.DTO\obj\Debug\Biblio2.DTO.csproj.AssemblyReference.cache
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.DTO\obj\Debug\Biblio2.DTO.csproj.CoreCompileInputs.cache
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.DTO\obj\Debug\Biblio2.DTO.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.DTO\obj\Debug\Biblio2.DTO.pdb
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.DTO\bin\Debug\Biblio2.DTO.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.DTO\bin\Debug\Biblio2.DTO.pdb
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.DTO\obj\Debug\Biblio2.DTO.csproj.AssemblyReference.cache
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.DTO\obj\Debug\Biblio2.DTO.csproj.CoreCompileInputs.cache
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.DTO\obj\Debug\Biblio2.DTO.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.DTO\obj\Debug\Biblio2.DTO.pdb
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DTO\bin\Debug\Biblio2.DTO.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DTO\bin\Debug\Biblio2.DTO.pdb
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DTO\obj\Debug\Biblio2.DTO.csproj.AssemblyReference.cache
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DTO\obj\Debug\Biblio2.DTO.csproj.CoreCompileInputs.cache
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DTO\obj\Debug\Biblio2.DTO.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DTO\obj\Debug\Biblio2.DTO.pdb
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DTO\bin\Debug\Biblio2.DTO.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DTO\bin\Debug\Biblio2.DTO.pdb
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DTO\obj\Debug\Biblio2.DTO.csproj.AssemblyReference.cache
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DTO\obj\Debug\Biblio2.DTO.csproj.CoreCompileInputs.cache
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DTO\obj\Debug\Biblio2.DTO.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DTO\obj\Debug\Biblio2.DTO.pdb
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DTO\bin\Debug\Biblio2.DTO.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DTO\bin\Debug\Biblio2.DTO.pdb
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DTO\obj\Debug\Biblio2.DTO.csproj.AssemblyReference.cache
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DTO\obj\Debug\Biblio2.DTO.csproj.CoreCompileInputs.cache
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DTO\obj\Debug\Biblio2.DTO.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DTO\obj\Debug\Biblio2.DTO.pdb

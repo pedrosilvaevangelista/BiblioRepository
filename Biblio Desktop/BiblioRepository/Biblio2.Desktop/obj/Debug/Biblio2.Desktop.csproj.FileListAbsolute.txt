@@ -1,0 +1,46 @@
+D:\Projetos_Visual_Studio_V2\BiblioRepository\Biblio2.Desktop\bin\Debug\Biblio2.Desktop.exe.config
+D:\Projetos_Visual_Studio_V2\BiblioRepository\Biblio2.Desktop\bin\Debug\Biblio2.Desktop.exe
+D:\Projetos_Visual_Studio_V2\BiblioRepository\Biblio2.Desktop\bin\Debug\Biblio2.Desktop.pdb
+D:\Projetos_Visual_Studio_V2\BiblioRepository\Biblio2.Desktop\bin\Debug\Biblio2.BLL.dll
+D:\Projetos_Visual_Studio_V2\BiblioRepository\Biblio2.Desktop\bin\Debug\Biblio2.DTO.dll
+D:\Projetos_Visual_Studio_V2\BiblioRepository\Biblio2.Desktop\bin\Debug\Biblio2.DAL.dll
+D:\Projetos_Visual_Studio_V2\BiblioRepository\Biblio2.Desktop\bin\Debug\Biblio2.BLL.pdb
+D:\Projetos_Visual_Studio_V2\BiblioRepository\Biblio2.Desktop\bin\Debug\Biblio2.DTO.pdb
+D:\Projetos_Visual_Studio_V2\BiblioRepository\Biblio2.Desktop\bin\Debug\Biblio2.DAL.pdb
+D:\Projetos_Visual_Studio_V2\BiblioRepository\Biblio2.Desktop\obj\Debug\Biblio2.Desktop.csproj.AssemblyReference.cache
+D:\Projetos_Visual_Studio_V2\BiblioRepository\Biblio2.Desktop\obj\Debug\Biblio2.Desktop.frmLogin.resources
+D:\Projetos_Visual_Studio_V2\BiblioRepository\Biblio2.Desktop\obj\Debug\Biblio2.Desktop.frmUsuarios.resources
+D:\Projetos_Visual_Studio_V2\BiblioRepository\Biblio2.Desktop\obj\Debug\Biblio2.Desktop.mdiAdministrador.resources
+D:\Projetos_Visual_Studio_V2\BiblioRepository\Biblio2.Desktop\obj\Debug\Biblio2.Desktop.Properties.Resources.resources
+D:\Projetos_Visual_Studio_V2\BiblioRepository\Biblio2.Desktop\obj\Debug\Biblio2.Desktop.csproj.GenerateResource.cache
+D:\Projetos_Visual_Studio_V2\BiblioRepository\Biblio2.Desktop\obj\Debug\Biblio2.Desktop.csproj.CoreCompileInputs.cache
+D:\Projetos_Visual_Studio_V2\BiblioRepository\Biblio2.Desktop\obj\Debug\Biblio2..C932F02C.Up2Date
+D:\Projetos_Visual_Studio_V2\BiblioRepository\Biblio2.Desktop\obj\Debug\Biblio2.Desktop.exe
+D:\Projetos_Visual_Studio_V2\BiblioRepository\Biblio2.Desktop\obj\Debug\Biblio2.Desktop.pdb
+D:\Projetos_Visual_Studio_V2\BiblioRepository\Biblio2.Desktop\obj\Debug\Biblio2.Desktop.frmLivros.resources
+D:\Projetos_Visual_Studio_V2\BiblioRepository\Biblio2.Desktop\obj\Debug\Biblio2.Desktop.frmLivrosRequisicao.resources
+D:\Projetos_Visual_Studio_V2\BiblioRepository\Biblio2.Desktop\bin\Debug\resources\imgFrmLivro\PDF_existente.png
+D:\Projetos_Visual_Studio_V2\BiblioRepository\Biblio2.Desktop\bin\Debug\resources\imgFrmLivro\PDF_inexistente.png
+C:\Users\FAMILIA EVANGELISTA\Downloads\BiblioRepository\Biblio2.Desktop\bin\Debug\resources\imgFrmLivro\PDF_existente.png
+C:\Users\FAMILIA EVANGELISTA\Downloads\BiblioRepository\Biblio2.Desktop\bin\Debug\resources\imgFrmLivro\PDF_inexistente.png
+C:\Users\FAMILIA EVANGELISTA\Downloads\BiblioRepository\Biblio2.Desktop\bin\Debug\Biblio2.Desktop.exe.config
+C:\Users\FAMILIA EVANGELISTA\Downloads\BiblioRepository\Biblio2.Desktop\bin\Debug\Biblio2.Desktop.exe
+C:\Users\FAMILIA EVANGELISTA\Downloads\BiblioRepository\Biblio2.Desktop\bin\Debug\Biblio2.Desktop.pdb
+C:\Users\FAMILIA EVANGELISTA\Downloads\BiblioRepository\Biblio2.Desktop\bin\Debug\Biblio2.BLL.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\BiblioRepository\Biblio2.Desktop\bin\Debug\Biblio2.DTO.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\BiblioRepository\Biblio2.Desktop\bin\Debug\Biblio2.DAL.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\BiblioRepository\Biblio2.Desktop\bin\Debug\Biblio2.BLL.pdb
+C:\Users\FAMILIA EVANGELISTA\Downloads\BiblioRepository\Biblio2.Desktop\bin\Debug\Biblio2.DTO.pdb
+C:\Users\FAMILIA EVANGELISTA\Downloads\BiblioRepository\Biblio2.Desktop\bin\Debug\Biblio2.DAL.pdb
+C:\Users\FAMILIA EVANGELISTA\Downloads\BiblioRepository\Biblio2.Desktop\obj\Debug\Biblio2.Desktop.csproj.AssemblyReference.cache
+C:\Users\FAMILIA EVANGELISTA\Downloads\BiblioRepository\Biblio2.Desktop\obj\Debug\Biblio2.Desktop.frmLivros.resources
+C:\Users\FAMILIA EVANGELISTA\Downloads\BiblioRepository\Biblio2.Desktop\obj\Debug\Biblio2.Desktop.frmLivrosRequisicao.resources
+C:\Users\FAMILIA EVANGELISTA\Downloads\BiblioRepository\Biblio2.Desktop\obj\Debug\Biblio2.Desktop.frmLogin.resources
+C:\Users\FAMILIA EVANGELISTA\Downloads\BiblioRepository\Biblio2.Desktop\obj\Debug\Biblio2.Desktop.frmUsuarios.resources
+C:\Users\FAMILIA EVANGELISTA\Downloads\BiblioRepository\Biblio2.Desktop\obj\Debug\Biblio2.Desktop.mdiAdministrador.resources
+C:\Users\FAMILIA EVANGELISTA\Downloads\BiblioRepository\Biblio2.Desktop\obj\Debug\Biblio2.Desktop.Properties.Resources.resources
+C:\Users\FAMILIA EVANGELISTA\Downloads\BiblioRepository\Biblio2.Desktop\obj\Debug\Biblio2.Desktop.csproj.GenerateResource.cache
+C:\Users\FAMILIA EVANGELISTA\Downloads\BiblioRepository\Biblio2.Desktop\obj\Debug\Biblio2.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\FAMILIA EVANGELISTA\Downloads\BiblioRepository\Biblio2.Desktop\obj\Debug\Biblio2..C932F02C.Up2Date
+C:\Users\FAMILIA EVANGELISTA\Downloads\BiblioRepository\Biblio2.Desktop\obj\Debug\Biblio2.Desktop.exe
+C:\Users\FAMILIA EVANGELISTA\Downloads\BiblioRepository\Biblio2.Desktop\obj\Debug\Biblio2.Desktop.pdb

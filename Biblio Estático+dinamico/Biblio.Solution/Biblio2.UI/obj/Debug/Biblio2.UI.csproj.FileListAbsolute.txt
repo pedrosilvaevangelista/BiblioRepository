@@ -1,0 +1,520 @@
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\Biblio2.UI.dll.config
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\Biblio2.UI.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\Biblio2.UI.pdb
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\csc.exe
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\csc.exe.config
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\csc.rsp
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\csi.exe
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\csi.exe.config
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\csi.rsp
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.AppContext.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Collections.Immutable.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Console.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Globalization.Calendars.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.Compression.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.FileSystem.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Net.Http.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Net.Sockets.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.ValueTuple.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.XPath.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\vbc.exe
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\vbc.exe.config
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\vbc.rsp
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\VBCSCompiler.exe
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\roslyn\VBCSCompiler.exe.config
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\Biblio2.BLL.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DTO.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DAL.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\Biblio2.BLL.pdb
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DTO.pdb
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DAL.pdb
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.csproj.AssemblyReference.cache
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.csproj.CoreCompileInputs.cache
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.csproj.Up2Date
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.pdb
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.csproj.AssemblyReference.cache
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.csproj.CoreCompileInputs.cache
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.pdb
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\Biblio2.UI.dll.config
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\Biblio2.UI.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\Biblio2.UI.pdb
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\csc.exe
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\csc.exe.config
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\csc.rsp
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\csi.exe
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\csi.exe.config
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\csi.rsp
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.AppContext.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Collections.Immutable.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Console.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Globalization.Calendars.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.Compression.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.FileSystem.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Net.Http.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Net.Sockets.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.ValueTuple.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.XPath.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\vbc.exe
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\vbc.exe.config
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\vbc.rsp
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\VBCSCompiler.exe
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\roslyn\VBCSCompiler.exe.config
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\Biblio2.BLL.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DTO.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DAL.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\Biblio2.BLL.pdb
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DTO.pdb
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DAL.pdb
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.csproj.Up2Date
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\Biblio2.UI.dll.config
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\Biblio2.UI.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\Biblio2.UI.pdb
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\csc.exe
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\csc.exe.config
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\csc.rsp
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\csi.exe
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\csi.exe.config
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\csi.rsp
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.AppContext.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Collections.Immutable.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Console.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Globalization.Calendars.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.Compression.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.FileSystem.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Net.Http.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Net.Sockets.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.ValueTuple.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.XPath.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\vbc.exe
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\vbc.exe.config
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\vbc.rsp
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\VBCSCompiler.exe
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\roslyn\VBCSCompiler.exe.config
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\Biblio2.BLL.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DTO.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DAL.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\Biblio2.BLL.pdb
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DTO.pdb
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DAL.pdb
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.csproj.AssemblyReference.cache
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.csproj.CoreCompileInputs.cache
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.csproj.Up2Date
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.pdb
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\Biblio2.UI.dll.config
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\Biblio2.UI.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\Biblio2.UI.pdb
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\csc.exe
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\csc.exe.config
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\csc.rsp
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\csi.exe
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\csi.exe.config
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\csi.rsp
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.AppContext.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Collections.Immutable.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Console.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Globalization.Calendars.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.Compression.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.FileSystem.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Net.Http.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Net.Sockets.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.ValueTuple.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.XPath.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\vbc.exe
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\vbc.exe.config
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\vbc.rsp
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\VBCSCompiler.exe
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\roslyn\VBCSCompiler.exe.config
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\Biblio2.BLL.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DTO.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DAL.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\Biblio2.BLL.pdb
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DTO.pdb
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DAL.pdb
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.csproj.AssemblyReference.cache
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.csproj.CoreCompileInputs.cache
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.csproj.Up2Date
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.dll
+D:\biblioversions\Biblio2.Solution.4\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.pdb
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.UI.dll.config
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.UI.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.UI.pdb
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\csc.exe
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\csc.exe.config
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\csc.rsp
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\csi.exe
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\csi.exe.config
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\csi.rsp
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.AppContext.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Collections.Immutable.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Console.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Globalization.Calendars.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.Compression.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.FileSystem.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Net.Http.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Net.Sockets.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.ValueTuple.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.XPath.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\vbc.exe
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\vbc.exe.config
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\vbc.rsp
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\VBCSCompiler.exe
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\VBCSCompiler.exe.config
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.BLL.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DTO.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DAL.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.BLL.pdb
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DTO.pdb
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DAL.pdb
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.csproj.AssemblyReference.cache
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.csproj.CoreCompileInputs.cache
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.csproj.Up2Date
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.pdb
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.UI.dll.config
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.UI.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.UI.pdb
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\csc.exe
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\csc.exe.config
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\csc.rsp
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\csi.exe
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\csi.exe.config
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\csi.rsp
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.AppContext.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Console.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Net.Http.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\vbc.exe
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\vbc.exe.config
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\vbc.rsp
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.BLL.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DTO.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DAL.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.BLL.pdb
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DTO.pdb
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DAL.pdb
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.csproj.AssemblyReference.cache
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.csproj.CoreCompileInputs.cache
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.csproj.Up2Date
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.pdb
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.UI.dll.config
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.UI.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.UI.pdb
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\csc.exe
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\csc.exe.config
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\csc.rsp
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\csi.exe
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\csi.exe.config
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\csi.rsp
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.AppContext.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Collections.Immutable.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Console.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Globalization.Calendars.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.Compression.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.FileSystem.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Net.Http.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Net.Sockets.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.ValueTuple.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.XPath.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\vbc.exe
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\vbc.exe.config
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\vbc.rsp
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\VBCSCompiler.exe
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\VBCSCompiler.exe.config
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.BLL.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DTO.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DAL.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.BLL.pdb
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DTO.pdb
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DAL.pdb
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.csproj.AssemblyReference.cache
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.csproj.CoreCompileInputs.cache
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.csproj.Up2Date
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.dll
+D:\Projeto Integrador\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.pdb
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.UI.dll.config
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.UI.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.UI.pdb
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\csc.exe
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\csc.exe.config
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\csc.rsp
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\csi.exe
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\csi.exe.config
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\csi.rsp
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.AppContext.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Console.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.Compression.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Net.Http.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Net.Sockets.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.ValueTuple.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\vbc.exe
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\vbc.exe.config
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\vbc.rsp
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\VBCSCompiler.exe
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.BLL.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DTO.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DAL.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.BLL.pdb
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DTO.pdb
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\bin\Biblio2.DAL.pdb
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.csproj.AssemblyReference.cache
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.csproj.CoreCompileInputs.cache
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.csproj.Up2Date
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.UI\obj\Debug\Biblio2.UI.pdb

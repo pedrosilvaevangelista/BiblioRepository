@@ -1,0 +1,63 @@
+C:\Users\Gabi\source\repos\Biblio2.Solution\Biblio2.DAL\bin\Debug\Biblio2.DAL.dll
+C:\Users\Gabi\source\repos\Biblio2.Solution\Biblio2.DAL\bin\Debug\Biblio2.DAL.pdb
+C:\Users\Gabi\source\repos\Biblio2.Solution\Biblio2.DAL\bin\Debug\Biblio2.DTO.dll
+C:\Users\Gabi\source\repos\Biblio2.Solution\Biblio2.DAL\bin\Debug\Biblio2.DTO.pdb
+C:\Users\Gabi\source\repos\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2.DAL.csproj.AssemblyReference.cache
+C:\Users\Gabi\source\repos\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Gabi\source\repos\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2..4158B0DB.Up2Date
+C:\Users\Gabi\source\repos\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2.DAL.dll
+C:\Users\Gabi\source\repos\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2.DAL.pdb
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.DAL\bin\Debug\Biblio2.DAL.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.DAL\bin\Debug\Biblio2.DAL.pdb
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.DAL\bin\Debug\Biblio2.DTO.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.DAL\bin\Debug\Biblio2.DTO.pdb
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2.DAL.csproj.AssemblyReference.cache
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2.DAL.csproj.CoreCompileInputs.cache
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2..4158B0DB.Up2Date
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2.DAL.dll
+D:\Projetos_Visual_Studio_V2\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2.DAL.pdb
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.DAL\bin\Debug\Biblio2.DAL.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.DAL\bin\Debug\Biblio2.DAL.pdb
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.DAL\bin\Debug\Biblio2.DTO.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.DAL\bin\Debug\Biblio2.DTO.pdb
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2.DAL.csproj.AssemblyReference.cache
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2.DAL.csproj.CoreCompileInputs.cache
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2..4158B0DB.Up2Date
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2.DAL.dll
+D:\Biblio2.Solution\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2.DAL.pdb
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.DAL\bin\Debug\Biblio2.DAL.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.DAL\bin\Debug\Biblio2.DAL.pdb
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.DAL\bin\Debug\Biblio2.DTO.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.DAL\bin\Debug\Biblio2.DTO.pdb
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2.DAL.csproj.AssemblyReference.cache
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2.DAL.csproj.CoreCompileInputs.cache
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2..4158B0DB.Up2Date
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2.DAL.dll
+D:\biblioversions\Biblio2.Solution.3\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2.DAL.pdb
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DAL\bin\Debug\Biblio2.DAL.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DAL\bin\Debug\Biblio2.DAL.pdb
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DAL\bin\Debug\Biblio2.DTO.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DAL\bin\Debug\Biblio2.DTO.pdb
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2.DAL.csproj.AssemblyReference.cache
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2.DAL.csproj.CoreCompileInputs.cache
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2..4158B0DB.Up2Date
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2.DAL.dll
+D:\biblioversions\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2.DAL.pdb
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DAL\bin\Debug\Biblio2.DAL.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DAL\bin\Debug\Biblio2.DAL.pdb
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DAL\bin\Debug\Biblio2.DTO.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DAL\bin\Debug\Biblio2.DTO.pdb
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2.DAL.csproj.AssemblyReference.cache
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2.DAL.csproj.CoreCompileInputs.cache
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2..4158B0DB.Up2Date
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2.DAL.dll
+C:\Users\julim\OneDrive\Documentos\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2.DAL.pdb
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DAL\bin\Debug\Biblio2.DAL.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DAL\bin\Debug\Biblio2.DAL.pdb
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DAL\bin\Debug\Biblio2.DTO.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DAL\bin\Debug\Biblio2.DTO.pdb
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2.DAL.csproj.AssemblyReference.cache
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2.DAL.csproj.CoreCompileInputs.cache
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2..4158B0DB.Up2Date
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2.DAL.dll
+C:\Users\FAMILIA EVANGELISTA\Downloads\Biblio2.Solution.5\Biblio2.Solution.5\Biblio2.Solution\Biblio2.DAL\obj\Debug\Biblio2.DAL.pdb

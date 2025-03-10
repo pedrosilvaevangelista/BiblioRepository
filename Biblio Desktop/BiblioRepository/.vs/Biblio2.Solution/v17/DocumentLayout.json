@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FAMILIA EVANGELISTA\\Downloads\\BiblioRepository\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EE083A2-EF47-4AB3-A636-FB7B1B97BD2A}|Biblio2.BLL\\Biblio2.BLL.csproj|c:\\users\\familia evangelista\\downloads\\bibliorepository\\biblio2.bll\\livrofavoritobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EE083A2-EF47-4AB3-A636-FB7B1B97BD2A}|Biblio2.BLL\\Biblio2.BLL.csproj|solutionrelative:biblio2.bll\\livrofavoritobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{918D145A-D381-404C-8CD6-52CF418A79E6}|Biblio2.DAL\\Biblio2.DAL.csproj|c:\\users\\familia evangelista\\downloads\\bibliorepository\\biblio2.dal\\livrofavoritodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{918D145A-D381-404C-8CD6-52CF418A79E6}|Biblio2.DAL\\Biblio2.DAL.csproj|solutionrelative:biblio2.dal\\livrofavoritodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LivroFavoritoBLL.cs",
+              "DocumentMoniker": "C:\\Users\\FAMILIA EVANGELISTA\\Downloads\\BiblioRepository\\Biblio2.BLL\\LivroFavoritoBLL.cs",
+              "RelativeDocumentMoniker": "Biblio2.BLL\\LivroFavoritoBLL.cs",
+              "ToolTip": "C:\\Users\\FAMILIA EVANGELISTA\\Downloads\\BiblioRepository\\Biblio2.BLL\\LivroFavoritoBLL.cs",
+              "RelativeToolTip": "Biblio2.BLL\\LivroFavoritoBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T06:25:03.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LivroFavoritoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\FAMILIA EVANGELISTA\\Downloads\\BiblioRepository\\Biblio2.DAL\\LivroFavoritoDAL.cs",
+              "RelativeDocumentMoniker": "Biblio2.DAL\\LivroFavoritoDAL.cs",
+              "ToolTip": "C:\\Users\\FAMILIA EVANGELISTA\\Downloads\\BiblioRepository\\Biblio2.DAL\\LivroFavoritoDAL.cs",
+              "RelativeToolTip": "Biblio2.DAL\\LivroFavoritoDAL.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T06:24:17.477Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

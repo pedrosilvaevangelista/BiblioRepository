@@ -1,0 +1,237 @@
+﻿/* ajustes.css */
+
+/* ========== VARIÁVEIS DE TEMA ========== */
+:root {
+    /* Tema Padrão (Rosa) */
+    --primary-bg: #FFF7F3;
+    --secondary-bg: #FFFFFF;
+    --accent-color: #FF6B6B;
+    --text-primary: #2E2E2E;
+    --text-secondary: #666666;
+    --border-color: #E0E0E0;
+    --hover-bg: #FFF0EB;
+    --shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+}
+
+.dark-mode {
+    --primary-bg: #1A1A1A;
+    --secondary-bg: #2D2D2D;
+    --accent-color: #FF6B6B;
+    --text-primary: #FFFFFF;
+    --text-secondary: #CCCCCC;
+    --border-color: #404040;
+    --hover-bg: #333333;
+    --shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+.light-mode {
+    --primary-bg: #FFFFFF;
+    --secondary-bg: #F8F9FA;
+    --accent-color: #FF6B6B;
+    --text-primary: #2E2E2E;
+    --text-secondary: #666666;
+    --border-color: #DEE2E6;
+    --hover-bg: #F1F1F1;
+    --shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+}
+
+/* ========== ESTILOS BASE ========== */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', system-ui, sans-serif;
+}
+
+body {
+    background-color: var(--primary-bg);
+    color: var(--text-primary);
+    min-height: 100vh;
+    transition: all 0.3s ease;
+}
+
+/* ========== CONTEÚDO PRINCIPAL ========== */
+.MainContent {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+h1 {
+    color: var(--accent-color);
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 3rem;
+    position: relative;
+    padding-bottom: 1rem;
+}
+
+h1::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 80px;
+    height: 3px;
+    background: var(--accent-color);
+}
+
+/* ========== SEÇÃO DE AJUSTES ========== */
+.ajustes {
+    background: var(--secondary-bg);
+    padding: 2rem;
+    border-radius: 12px;
+    box-shadow: var(--shadow);
+    max-width: 500px;
+    margin: 2rem auto;
+    transition: all 0.3s ease;
+}
+
+.ajustes label {
+    display: block;
+    color: var(--text-secondary);
+    font-size: 1.1rem;
+    margin-bottom: 1rem;
+    font-weight: 500;
+}
+
+/* ========== DROPDOWN ESTILIZADO ========== */
+#ddlDarkMode {
+    width: 100%;
+    padding: 12px 16px;
+    border: 2px solid var(--border-color);
+    border-radius: 8px;
+    background: var(--secondary-bg);
+    color: var(--text-primary);
+    font-size: 1rem;
+    appearance: none;
+    background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
+    background-repeat: no-repeat;
+    background-position: right 12px center;
+    background-size: 1em;
+    padding-right: 2.5em;
+    transition: all 0.3s ease;
+}
+
+#ddlDarkMode:hover {
+    border-color: var(--accent-color);
+    cursor: pointer;
+}
+
+#ddlDarkMode:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(255, 107, 107, 0.2);
+    border-color: var(--accent-color);
+}
+
+/* Estilo base para os botões */
+.btn-sair, .delete-btn {
+    display: inline-block;
+    padding: 12px 24px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s, box-shadow 0.3s;
+    margin: 10px 5px;
+}
+
+/* Botão "Sair Da Conta" */
+.btn-sair {
+    background-color: #fda179; /* Cor laranja suave */
+    color: #1a4852; /* Cor do texto escuro */
+}
+
+    .btn-sair:hover {
+        background-color: #fc8a5c; /* Laranja mais escuro no hover */
+        transform: translateY(-2px);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+
+/* Botão "Excluir Conta" */
+.delete-btn {
+    background-color: #ff4d4d; /* Vermelho vibrante */
+    color: #ffffff; /* Texto branco */
+}
+
+    .delete-btn:hover {
+        background-color: #e60000; /* Vermelho mais escuro no hover */
+        transform: translateY(-2px);
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+
+/* Ajustes para o tema escuro */
+.dark-mode .btn-sair {
+    background-color: #444444; /* Cinza escuro */
+    color: #e0e0e0; /* Texto claro */
+}
+
+    .dark-mode .btn-sair:hover {
+        background-color: #555555; /* Cinza mais claro no hover */
+    }
+
+.dark-mode .delete-btn {
+    background-color: #cc0000; /* Vermelho mais escuro */
+    color: #e0e0e0; /* Texto claro */
+}
+
+    .dark-mode .delete-btn:hover {
+        background-color: #990000; /* Vermelho mais escuro no hover */
+    }
+
+/* Ajustes para o tema claro */
+.light-mode .btn-sair {
+    background-color: #fda179; /* Laranja suave */
+    color: #333333; /* Texto escuro */
+}
+
+    .light-mode .btn-sair:hover {
+        background-color: #fc8a5c; /* Laranja mais escuro no hover */
+    }
+
+.light-mode .delete-btn {
+    background-color: #ff4d4d; /* Vermelho vibrante */
+    color: #ffffff; /* Texto branco */
+}
+
+    .light-mode .delete-btn:hover {
+        background-color: #e60000; /* Vermelho mais escuro no hover */
+    }
+
+/* Ajustes para o tema de contraste */
+.contrast-mode .btn-sair {
+    background-color: #000000; /* Fundo preto */
+    color: #FFFF00; /* Texto amarelo */
+    border: 2px solid #FFFF00; /* Borda amarela */
+}
+
+    .contrast-mode .btn-sair:hover {
+        background-color: #FFFF00; /* Fundo amarelo no hover */
+        color: #000000; /* Texto preto */
+    }
+
+.contrast-mode .delete-btn {
+    background-color: #000000; /* Fundo preto */
+    color: #FF0000; /* Texto vermelho */
+    border: 2px solid #FF0000; /* Borda vermelha */
+}
+
+    .contrast-mode .delete-btn:hover {
+        background-color: #FF0000; /* Fundo vermelho no hover */
+        color: #000000; /* Texto preto */
+    }
+
+/* Ajustes para o tema miope */
+.miope-mode .btn-sair, .miope-mode .delete-btn {
+    font-size: 20px !important; /* Texto maior */
+    padding: 15px 30px !important; /* Botões maiores */
+    margin: 15px 10px !important; /* Espaçamento maior */
+}
+
+    .miope-mode .btn-sair:hover, .miope-mode .delete-btn:hover {
+        transform: translateY(-3px) !important; /* Efeito de hover mais pronunciado */
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3) !important;
+    }

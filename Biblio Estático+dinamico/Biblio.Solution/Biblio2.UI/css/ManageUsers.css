@@ -1,0 +1,248 @@
+﻿/* Importação de fontes */
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Lora:wght@400;700&family=Oswald:wght@400;700&display=swap');
+
+/* Variáveis de cor para o tema padrão */
+:root {
+    --sidebar-bg: #fce9e0;
+    --sidebar-text: #1a4852;
+    --sidebar-hover: #fda179;
+    --sidebar-border: #FCBEBE;
+    --favorites-heading: #1a4852;
+    --favorites-border: #fda179;
+    --link-color: #1a4852;
+    --body-bg: #ffffff;
+    --body-text: #1a4852;
+}
+
+/* Tema Escuro */
+.dark-mode {
+    --sidebar-bg: #121212;
+    --sidebar-text: #e0e0e0;
+    --sidebar-hover: #1e1e1e;
+    --sidebar-border: #333333;
+    --favorites-heading: #e0e0e0;
+    --favorites-border: #444444;
+    --link-color: #d3d3d3;
+    --body-bg: #0a0a0a;
+    --body-text: #e0e0e0;
+}
+
+/* Tema Claro */
+.light-mode {
+    --sidebar-bg: #f7f7f7;
+    --sidebar-text: #333333;
+    --sidebar-hover: #dddddd;
+    --sidebar-border: #bbbbbb;
+    --favorites-heading: #333333;
+    --favorites-border: #bbbbbb;
+    --link-color: #333333;
+    --body-bg: #ffffff;
+    --body-text: #333333;
+}
+
+/* Tema Contraste Extremo */
+body.contrast-mode {
+    background: #000000 !important;
+    color: #FFFFFF !important;
+    *
+
+{
+    color: #FFFFFF !important;
+    background: #000000 !important;
+    border-color: #FFFF00 !important;
+}
+
+a, a:hover, a:visited {
+    color: #FFFF00 !important;
+    text-decoration: underline !important;
+}
+
+button, .btn, input, textarea, select {
+    background: #000000 !important;
+    border: 3px solid #FFFF00 !important;
+    color: #FFFF00 !important;
+    padding: 8px 15px !important;
+}
+
+.sidebar {
+    background: #000000 !important;
+    border-right: 3px solid #FFFF00 !important;
+}
+
+.profile-img {
+    border: 3px solid #FFFF00 !important;
+}
+
+nav ul li a:hover,
+.favorites-section ul li a:hover,
+button:hover,
+.btn:hover {
+    background: #FFFF00 !important;
+    color: #000000 !important;
+    text-decoration: none !important;
+}
+
+}
+
+/* Tema Visão Ampliada (Miope) */
+body.miope-mode {
+    font-size: 20px !important;
+    *
+
+{
+    font-size: 1.1em !important;
+    line-height: 1.8 !important;
+}
+
+h1 {
+    font-size: 2.5em !important;
+    margin-bottom: 1.5em !important;
+}
+
+h2 {
+    font-size: 2em !important;
+    margin-bottom: 1.2em !important;
+}
+
+.sidebar {
+    width: 320px !important;
+    padding: 30px !important;
+    nav ul li a
+
+{
+    padding: 20px !important;
+    margin-bottom: 25px !important;
+}
+
+}
+
+.main-content {
+    margin-left: 340px !important;
+    padding: 30px !important;
+}
+
+.profile-img {
+    width: 120px !important;
+    height: 120px !important;
+}
+
+button, .btn {
+    padding: 15px 30px !important;
+    min-height: 60px !important;
+}
+
+
+}
+
+/* Reset e configuração de fontes */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Lora', serif;
+}
+
+body {
+    background: var(--body-bg);
+    color: var(--body-text);
+    font-size: 16px;
+    line-height: 1.6;
+    transition: background 0.3s, color 0.3s;
+}
+
+/* Estilos da Sidebar */
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 260px;
+    height: 100vh;
+    background: var(--sidebar-bg);
+    padding: 20px;
+    overflow-y: auto;
+    box-shadow: 2px 0 5px rgba(0,0,0,0.1);
+    transition: background 0.3s ease-in-out;
+}
+
+.profile-container {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 30px;
+}
+
+.profile-img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 2px solid var(--sidebar-border);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.profile-container a:hover .profile-img {
+    transform: scale(1.05);
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+}
+
+.sidebar nav ul li a {
+    display: block;
+    text-decoration: none;
+    color: var(--link-color);
+    padding: 12px 18px;
+    border-radius: 6px;
+    transition: background 0.3s, transform 0.2s;
+    font-family: 'Oswald', sans-serif;
+    font-size: 18px;
+}
+
+    .sidebar nav ul li a:hover {
+        background: var(--sidebar-hover);
+        transform: translateX(5px);
+    }
+
+.main-content {
+    margin-left: 280px;
+    padding: 20px;
+}
+
+.favorites-section {
+    margin-top: 40px;
+}
+
+    .favorites-section h2 {
+        color: var(--favorites-heading);
+        font-size: 20px;
+        margin-bottom: 15px;
+        padding-bottom: 5px;
+        border-bottom: 2px solid var(--body-text);
+        font-family: 'Playfair Display', serif;
+    }
+
+    .favorites-section ul {
+        list-style: none;
+    }
+
+        .favorites-section ul li {
+            margin-bottom: 10px;
+        }
+
+            .favorites-section ul li a {
+                text-decoration: none;
+                color: var(--sidebar-text);
+                display: flex;
+                align-items: center;
+                gap: 10px;
+                transition: opacity 0.3s;
+            }
+
+                .favorites-section ul li a:hover {
+                    opacity: 0.8;
+                }
+
+                .favorites-section ul li a img {
+                    width: 50px;
+                    height: 50px;
+                    border-radius: 6px;
+                    object-fit: cover;
+                }

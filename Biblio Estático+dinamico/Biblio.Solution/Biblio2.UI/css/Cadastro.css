@@ -1,0 +1,233 @@
+﻿/* ================== */
+/* Tema Padrão (Rosa) */
+/* ================== */
+body {
+    background: #FCBEBE;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* #region NavBar*/
+.navbar {
+    padding: 10px;
+    text-align: center;
+}
+
+.navbar-logo {
+    height: 50px;
+    width: auto;
+}
+
+.container {
+    background-color: #ffffff;
+    padding: 2rem;
+    border-radius: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+}
+
+.formulario h1 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    color: #1a4852;
+    font-size: 1.75rem;
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+    .form-group input[type="text"],
+    .form-group input[type="email"],
+    .form-group input[type="password"] {
+        width: 100%;
+        padding: 0.75rem;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        font-size: 0.9rem;
+        color: #333;
+        transition: border-color 0.3s ease;
+    }
+
+        .form-group input[type="text"]:focus,
+        .form-group input[type="email"]:focus,
+        .form-group input[type="password"]:focus {
+            border-color: #007bff;
+            outline: none;
+        }
+
+/* Botões */
+.btn {
+    width: 100%;
+    padding: 0.75rem;
+    border: none;
+    border-radius: 5px;
+    font-size: 0.9rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btn-primary {
+    background-color: #1a4852;
+    color: #fff;
+}
+
+    .btn-primary:hover {
+        background-color: #FCBEBE;
+        color: #000000;
+    }
+
+.btn-secondary {
+    background-color: #1a4852;
+    color: #fff;
+}
+
+    .btn-secondary:hover {
+        background-color: #FCBEBE;
+        color: #000000;
+    }
+
+.btn-link {
+    background-color: transparent;
+    color: #1a4852;
+    text-decoration: underline;
+    padding: 0;
+}
+
+
+/* Upload de imagem */
+.file-upload-label {
+    display: block;
+    text-align: center;
+    padding: 0.75rem;
+    background-color: #1a4852;
+    color: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    font-size: 0.9rem;
+}
+
+    .file-upload-label:hover {
+        background-color: #FCBEBE;
+        color: #000000;
+    }
+
+    .file-upload-label input[type="file"] {
+        display: none;
+    }
+
+/* Imagem de perfil */
+.profile-image {
+    display: block;
+    margin: 0.5rem auto;
+    border-radius: 50%;
+    border: 2px solid #ddd;
+    width: 100px;
+    height: 100px;
+}
+
+/* Checkbox */
+.checkbox {
+    display: flex;
+    align-items: center;
+    margin-top: 0.5rem;
+}
+
+    .checkbox input[type="checkbox"] {
+        margin-right: 0.5rem;
+        cursor: pointer;
+    }
+
+    .checkbox label {
+        color: #555;
+        font-size: 0.9rem;
+        cursor: pointer;
+    }
+
+/* Mensagens de erro e resultado */
+.error-message {
+    color: #dc3545;
+    font-size: 0.85rem;
+    margin-top: 0.25rem;
+}
+
+.result-message {
+    font-size: 0.85rem;
+    color: #333;
+    text-align: center;
+    margin-top: 0.5rem;
+}
+
+
+/* =================== */
+/* Tema Light (Branco) */
+/* =================== */
+body.light-mode {
+    background-color: #ffffff;
+    color: #000000;
+}
+
+.light-mode .filters-section {
+    background: #f7f7f7;
+}
+
+.light-mode .card {
+    background: #ffffff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+    .light-mode .card h3 {
+        color: #333;
+    }
+
+    .light-mode .card p {
+        color: #666;
+    }
+
+.light-mode #DivPDF a {
+    background: #007bff;
+}
+
+    .light-mode #DivPDF a:hover {
+        background: #0056b3;
+    }
+
+/* =================== */
+/* Tema Dark (Escuro) */
+/* =================== */
+body.dark-mode {
+    background-color: #121212;
+    color: #f1f1f1;
+}
+
+.dark-mode .filters-section {
+    background: #333;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+}
+
+.dark-mode .card {
+    background: #1e1e1e;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+}
+
+    .dark-mode .card h3 {
+        color: #ddd;
+    }
+
+    .dark-mode .card p {
+        color: #ccc;
+    }
+
+.dark-mode #DivPDF a {
+    background: #0056b3;
+}
+
+    .dark-mode #DivPDF a:hover {
+        background: #003f7f;
+    }
